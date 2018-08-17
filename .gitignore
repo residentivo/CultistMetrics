@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CultistMetrics/obj
+/CultistMetrics/bin/Debug/netcoreapp2.0
+*.user
+/CultistMetrics
+/CultistHelper/obj
+/CultistHelper/bin/Debug/netcoreapp2.1
+/CultistMetrics.GenericModel/obj
+/CultistMetrics.GenericModel/bin/Debug/netcoreapp2.1
+/Microsoft.EntityFrameworkCore.UnitOfWork/obj
+/Microsoft.EntityFrameworkCore.UnitOfWork/bin/Debug/netstandard2.0
