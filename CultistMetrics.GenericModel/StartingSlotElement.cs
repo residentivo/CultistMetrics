@@ -12,7 +12,7 @@ namespace CultistMetrics.GenericModel
 
         public string StartingSlotElementIdentification { get; set; }
 
-        public List<StartingSlotElementItem> StartingSlotElementItems { get;set }
+        public List<StartingSlotElementItem> StartingSlotElementItems { get; set; }
 
         public int SituationId { get; set; }
         public Situation Situation { get; set; }

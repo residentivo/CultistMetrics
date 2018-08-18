@@ -1,5 +1,6 @@
 ﻿using JetBrains.Annotations;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -12,6 +13,14 @@ namespace CultistMetrics.GenericModel
     //PM> update-database
     public class CultistContext : DbContext
     {
+        private IConfiguration configuration;
+
+        public CultistContext() { }
+        public CultistContext(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
+
         public DbSet<SaveFile> SaveFiles { get; set; }
 
         public DbSet<MetaInfo> MetaInfos { get; set; }
@@ -24,7 +33,7 @@ namespace CultistMetrics.GenericModel
 
         public DbSet<ElementStack> ElementStacks { get; set; }
         public DbSet<ElementStackItem> ElementStackItems { get; set; }
-        
+
         public DbSet<Situation> Situations { get; set; }
 
         public DbSet<SituationItem> SituationItems { get; set; }
@@ -35,16 +44,19 @@ namespace CultistMetrics.GenericModel
 
         public DbSet<SituationStoredElement> SituationStoredElements { get; set; }
         public DbSet<SituationStoredElementItem> SituationStoredElementItems { get; set; }
-                
+
         public DbSet<StartingSlotElement> StartingSlotElements { get; set; }
         public DbSet<StartingSlotElementItem> StartingSlotElementItems { get; set; }
-        
+
         public DbSet<SituationOutputStack> SituationOutputStacks { get; set; }
         public DbSet<SituationOutputStackItem> SituationOutputStackItems { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=Cultist.db");
+            if (configuration == null && configuration.GetSection("ConnectionStrings") != null)
+                optionsBuilder.UseSqlite("Data Source=Cultist.db");
+            else
+                optionsBuilder.UseSqlite(configuration.GetConnectionString("DefaultConnection"));
         }
     }
 }

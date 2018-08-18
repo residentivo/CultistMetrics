@@ -1,4 +1,5 @@
 ﻿using CultistMetrics.GenericModel;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json.Linq;
 using System;
@@ -10,22 +11,38 @@ namespace CultistHelper
 {
     class Program
     {
-        private static SaveFile fileItem;
+        //private static SaveFile fileItem;
+
+        private static UnitOfWork<CultistContext> GetUnitOfWork()
+        {
+            return new UnitOfWork<CultistContext>(new CultistContext());
+        }
+
+        private static IRepository<T> Repository<T>(IUnitOfWork unitOfWork) where T : class { return unitOfWork.GetRepository<T>(); }
 
         public static IConfigurationRoot Configuration { get; private set; }
-        public static string SaveFolder { get; private set; }
+
+        private static string filedirectory;
+        private static string SaveFolder;
 
         static void Main(string[] args)
         {
             var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appsettings.json");
             Configuration = builder.Build();
 
-            var filedirectory = Configuration["AppConfiguration:CultistPath"];
+            filedirectory = Configuration["AppConfiguration:CultistPath"];
             SaveFolder = Configuration["AppConfiguration:CultistSave"];
 
             Logger("TESTE de LOG");
 
+            
+
             Console.ReadKey();
+
+        }
+
+        private static void BasciOperation()
+        {
 
             //Parse File for first time
             ParseFile(Path.Combine(filedirectory, "save.txt"));
@@ -40,9 +57,9 @@ namespace CultistHelper
             Logger("Press \'q\' to quit the sample.");
             while (Console.Read() != 'q') { }
         }
-
         private static void ParseFile(string filename)
         {
+            SaveFile fileItem;
             fileItem = new SaveFile()
             {
                 FileName = filename,
@@ -204,7 +221,7 @@ namespace CultistHelper
                                 Situation = situation,
                                 OngoingSlotElementIdentification = subprop.Name
                             };
-                            
+
                             foreach (JProperty subpropitem in subprop.Values())
                             {
                                 OngoingSlotElementItem ongoingSlotElementItem = new OngoingSlotElementItem()
@@ -282,7 +299,6 @@ namespace CultistHelper
 
 
         }
-
         private static void Logger(string message)
         {
             Console.SetCursorPosition(0, 0);
