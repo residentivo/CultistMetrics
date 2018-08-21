@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>CultistMetrics.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Compile Remove="bin\Debug\netcoreapp2.1\exports\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="bin\Debug\netcoreapp2.1\exports\**" />
+    <None Remove="bin\**" />
+    <None Remove="bin\Debug\netcoreapp2.1\exports\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </ApplicationDefinition>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="ErikEJ.EntityFrameworkCore.DgmlBuilder" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.UnitOfWork" Version="2.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+    <PackageReference Include="System.Json" Version="4.5.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\CultistMetrics.GenericModel\CultistMetrics.GenericModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="log\TextFile1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Saves\old\backup_save.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Saves\old\save.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
