@@ -1,0 +1,283 @@
+{
+	"elementStacks": {
+		"-1440_-260_78ef0fa3-d983-456f-8e90-040b722a0ae0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generichq"
+		},
+		"-360_-390_5cdc0d8c-3670-4491-a8cc-6c9a140ee7f7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "3",
+			"elementId": "fatigue"
+		},
+		"-90_260_43fb7d80-9d46-482c-a2ff-4c83ce5dfa96": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "23",
+			"elementId": "restlessness"
+		},
+		"1350_0_21600e14-9ad7-404b-ad82-b3619b476ee7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ritetoolconsumefollower"
+		},
+		"-630_0_81a2ebee-77d1-46ac-8331-ac8f38df6a43": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "porter_b"
+		},
+		"-720_0_8f9a1da6-44d1-487b-837f-a837cc0d0fe8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "elridge_b"
+		},
+		"-90_520_8f7625a5-a58e-4341-899f-ef7cbe79eda6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "292",
+			"elementId": "mystique"
+		},
+		"0_-390_c724a3fc-706e-4eb0-8a37-582686578dc5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "glimmering"
+		},
+		"90_260_24ea6695-4207-49d7-95e7-2f83053d67f7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "52",
+			"elementId": "contentment"
+		},
+		"1170_0_d5b6c544-2670-4009-b2e1-d89e540ebeba": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ascensionenlightenmentb"
+		},
+		"-360_260_97f83456-3e91-48d4-935c-c034fcf5dc87": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "113",
+			"elementId": "mystique"
+		},
+		"810_0_804101af-5cad-4e00-9bb4-5c2a266b043d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentforgeb"
+		},
+		"-450_-390_d39f4f0c-2c5c-4230-b756-12c70c7c8392": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "166",
+			"elementId": "affliction"
+		},
+		"-630_260_11d1f461-72e0-4659-8b7a-9a6696c2b04f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_lantern"
+		},
+		"-900_-520_f37a987a-b87a-42e1-99bb-65209c5155ef": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "institutephysicianjob"
+		},
+		"-990_-260_cece7c3b-a946-41f5-b04f-90a76eb535a1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationcabaret"
+		},
+		"-270_520_3fd584d2-279d-49ba-a111-43aabd16bd3d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "232",
+			"elementId": "mystique"
+		},
+		"-810_0_46be8440-e160-443b-8850-b2a6f50ebf2b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "tristan_b"
+		},
+		"-900_0_f788be17-7cb7-493a-868b-de9ef29bcf8b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "leo_b"
+		},
+		"-990_0_ebd09b04-7874-47a4-a222-4fdf731a3598": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "enid_b"
+		},
+		"90_-390_9a5bf83a-c543-46be-a99c-ff95357604e1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "glimmering"
+		},
+		"-720_260_1b15e9e5-6c4c-400d-b74d-7dd1460a14c7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_knock"
+		},
+		"-1260_390_71ce647c-19ff-4835-b1cb-093e43cd33b1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticleheartb"
+		},
+		"-1350_260_f6809f07-82a9-4154-a0d8-2fb87c2153e0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "aladim"
+		},
+		"-1260_260_6c452265-1d16-461c-a09e-c2b563f168ab": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlelanternb"
+		},
+		"-1080_-260_805ba8c8-b248-49c0-addb-da59af0aa05a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationbookdealer"
+		},
+		"-810_260_0417d548-b35d-4f88-8dfb-a851bff43bc5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_moth"
+		},
+		"450_-260_f1a10b48-f266-49aa-86c2-c5f8cefd0710": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesc"
+		},
+		"-180_520_cbca6534-9947-4877-bf73-dec7095fb015": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "232",
+			"elementId": "mystique"
+		},
+		"-450_-520_137f79b9-04e7-4131-a3cc-a0cdf401bf52": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"540_0_c54f7069-5276-473b-9689-be7ca745bd2d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentlanternb"
+		},
+		"720_0_b3fd382b-7f7d-424b-ba79-b32fba87b3b8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentwinter"
+		},
+		"-1440_-520_ee74aca1-c38b-4c2e-b47f-b88cfac9c30e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "gloverandgloverjuniorjob_demotion"
+		},
+		"630_0_16b8e0e1-de89-4429-bd34-60efe8c77976": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentknockb"
+		},
+		"-900_-260_1f2734ea-c98c-4689-aa45-51e4b92efe29": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationauctionhouse"
+		},
+		"-90_390_59ff2ca6-ccfb-4d22-a6d6-3b2b6dbdd528": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "293",
+			"elementId": "mystique"
+		},
+		"-180_390_152a9652-afaa-44ac-b921-e5ac71f13858": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "232",
+			"elementId": "mystique"
+		},
+		"990_-260_1ccfa012-a5e8-4319-b857-3b30320a10b2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywood"
+		},
+		"990_-520_c95d8e56-089c-49b9-86b0-6b7aaf223a16": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillreasona"
+		},
+		"900_0_fdf86a1f-33ca-4c50-87a3-d9bf246b08dd": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentedge"
+		},
+		"90_-260_0d38dc21-ab6b-4958-97a9-a0204612a3f6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "glimmering"
+		},
+		"0_260_2fdc96ad-8377-4720-a951-b813547625f0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "fascination"
+		},
+		"-360_-520_aac63b55-e2ec-4bec-a344-dddc04a54851": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-540_-260_5f71b558-e0b2-4fe1-90b0-fa20931e6785": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "passion"
+		},
+		"-1350_390_f2e18250-96b4-4dcb-a8da-06594d745018": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "jannings"
+		},
+		"-360_390_9d7d536d-eab3-4e11-a17c-4d4294fe693e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "232",
+			"elementId": "mystique"
+		},
+		"-990_-520_9a5517f7-0cc5-4118-bd3c-1f470188ace8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"

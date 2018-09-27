@@ -7,6 +7,10 @@ namespace CultistMetrics.GenericModel
 {
     public class StartingSlotElement
     {
+        public StartingSlotElement()
+        {
+            StartingSlotElementItems = new List<StartingSlotElementItem>();
+        }
         [Key]
         public int StartingSlotElementId { get; set; }
 

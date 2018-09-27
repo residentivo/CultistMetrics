@@ -1,0 +1,283 @@
+{
+	"elementStacks": {
+		"-180_-260_443892b4-1861-44a2-a53e-5e92a4fce44b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "glimmering"
+		},
+		"-540_-520_73e0bdf8-ac4f-4643-91ad-7472c0db140e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-450_-520_3c38db51-6c50-4eb5-9ec5-88148d354278": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-1350_260_f688e49d-f167-4f9c-9d23-baf94a40ad4d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "aladim"
+		},
+		"-450_-260_81f95e9a-d0da-4b45-a3ad-7391a6b84d89": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "passionexhausted"
+		},
+		"-1440_-390_08764005-4056-48dd-8f85-9f3813f4bea1": {
+			"quantity": "8",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "funds"
+		},
+		"630_0_ef9f84f1-90b0-4aef-aea0-584c32081306": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentknockb"
+		},
+		"540_0_e934f4eb-4f78-4444-b346-fd45ddea40cc": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentlanternb"
+		},
+		"-630_0_2167727b-4af4-4151-9efb-c54da5f0359b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "porter_b"
+		},
+		"1080_0_4abc0052-88b6-4bf4-a67d-7fd5a7921ee9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "cultsecrethistories_1"
+		},
+		"900_0_0e2c1e25-8a3c-4c61-b15b-ab76ea381289": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentedge"
+		},
+		"-270_-130_73ccc6cc-3e12-46f1-9eda-4ddf9ccdc140": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "175",
+			"elementId": "glimmering"
+		},
+		"810_0_1b06e927-8f64-4fcb-bcc7-4c3d999d89c5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentforgeb"
+		},
+		"-360_-390_228cdf55-3ff9-4099-baf8-2abbdbe0b820": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "health"
+		},
+		"-1080_-260_515b46ce-5447-4cc5-939a-54f07897345f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationbookdealer"
+		},
+		"-180_-130_666fbaf4-dd44-4229-a798-48f46e8043b2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "175",
+			"elementId": "glimmering"
+		},
+		"-810_260_613264bc-1ea9-45b6-972c-b84ec8f0fe15": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_moth"
+		},
+		"-270_-520_74af280e-ed13-42a3-aabf-7380ab97bffc": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "156",
+			"elementId": "erudition"
+		},
+		"-630_260_0622f385-5360-41db-8337-d754668edcc2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_lantern"
+		},
+		"-990_-520_ec841f95-a0ec-4c6f-98e2-6fe004a2ebc0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillhealthb"
+		},
+		"-990_0_782dadf3-55e0-4fa9-ac84-4b5f392439d0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "enid_b"
+		},
+		"450_-130_92d67bbc-24ec-4c14-87d9-629cd3e1d41b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesb"
+		},
+		"-180_130_032b4ae9-7e91-4c46-9b28-8956fe8cc5ac": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "contentment"
+		},
+		"720_0_f0baa1ea-b7ea-4387-89f8-d1bb73bf943a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentwinter"
+		},
+		"-900_0_9549d5b8-1fc8-4fc1-b433-13a7698a4e1c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "leo_b"
+		},
+		"810_-260_91da7332-ec32-419c-b74a-fa97b70ea3b1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waystagbefore_4"
+		},
+		"-270_-260_8ac4e842-1307-4c5c-886c-47eae77020b4": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "39",
+			"elementId": "glimmering"
+		},
+		"-720_260_821b7010-e073-488f-80fa-5b4bc3f57b91": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_knock"
+		},
+		"-1260_390_009a0c1f-9945-4581-b1bf-0d34c44161c6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticleheartb"
+		},
+		"-360_260_3be263fc-5d9d-4393-aabe-57f486e8523c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "233",
+			"elementId": "mystique"
+		},
+		"0_260_8b57cd9c-7faf-400e-89bf-ad471dd5f64f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "175",
+			"elementId": "fascination"
+		},
+		"1170_0_bb7fbebd-6907-4d31-ba90-fb494644116e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ascensionenlightenmentb"
+		},
+		"-90_-260_03f904ee-1e1c-4b64-b6ed-80be72da7017": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "55",
+			"elementId": "glimmering"
+		},
+		"-900_-260_68f17887-da40-4dea-99df-efc3ae801b1e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationauctionhouse"
+		},
+		"990_-520_f3fedeee-09b1-40c4-b050-432c450c7e80": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillreasona"
+		},
+		"0_-260_6b9bb380-db5d-400e-a16f-0c069ee36b55": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "132",
+			"elementId": "glimmering"
+		},
+		"-900_-520_daeedd75-f5eb-4c7c-b023-1ca82c051d9c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "institutephysicianjob"
+		},
+		"-1080_0_867cb635-1f8e-40f8-8dca-eea14d0b17a8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "renira_b"
+		},
+		"-1260_260_dc78f899-57ca-4aec-aebb-cf8a9d415c6f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlelanternb"
+		},
+		"-1440_-260_e9141b02-b940-4348-858e-9b5d5e155a31": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generichq"
+		},
+		"-170_390_b0ae2e61-87c0-43e7-95fb-592bce484f19": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "21",
+			"elementId": "fascination"
+		},
+		"990_-260_e0677884-389f-4ef9-8350-a7db11beddf0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywood"
+		},
+		"-450_-390_6bc4bdfb-3e5a-47cb-abfc-c7ca798b5b07": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "health"
+		},
+		"-270_-390_313d72d2-99a6-4f0f-8660-15fa13ba74d2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "132",
+			"elementId": "vitality"
+		},
+		"-90_-130_6005cdf5-0db4-4b2e-a798-ad1c311b19e4": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "175",
+			"elementId": "glimmering"
+		},
+		"900_-260_56751300-e06b-41d6-bfa5-390b1388ddc2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywhite"
+		},
+		"-810_0_40a22722-932f-4fb4-a357-cecf9eda956a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elem

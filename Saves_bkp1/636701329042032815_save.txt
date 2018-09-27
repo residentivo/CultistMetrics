@@ -1,0 +1,1866 @@
+{
+	"elementStacks": {
+		"-630_130_57b66c13-9fa4-4c75-9ec4-115f37eda84d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "87",
+			"elementId": "notoriety"
+		},
+		"810_260_3191f7ed-6c2f-4f22-b179-9e437e7b8732": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "aladim"
+		},
+		"90_-260_d032c7ea-43e6-4001-9dad-8829630c7e6d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_c_edge"
+		},
+		"-540_130_e9afaf7f-9f62-4d17-8c42-5569dcfead44": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "311",
+			"elementId": "evidence"
+		},
+		"720_0_82c1c676-3559-44a2-93d2-15a0c4c2fdba": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "onwhatiscontainedbysilver"
+		},
+		"810_-130_009e3589-8b67-4354-b061-21c0944e05fa": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "renira_c"
+		},
+		"1170_130_04c77cc0-3a9b-475d-bd4b-b0eae65ac066": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholarphrygian"
+		},
+		"720_130_b4ef7bf0-7cd3-47d7-832c-c99ec955cb58": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "devouredtantrasanskrit"
+		},
+		"-990_260_b6e5b373-9457-484d-8803-27a26ff410d7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"1170_260_1cf5cb3a-515b-4dfe-8009-6dd7ce0fde2a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientheartb"
+		},
+		"450_-520_a2f05856-94bc-48bf-99c0-50b7664d4fe7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "valciane_c"
+		},
+		"-990_0_4b449437-a64c-4e87-912d-25634b649db8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"810_130_ed21a9cb-ab5b-4281-9cf6-148e782fa725": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "knownunknowntantrasanskrit"
+		},
+		"-900_-260_9464952c-50e6-4780-8833-1bc4ba0191e9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywood"
+		},
+		"-630_0_aee78870-2dce-4a54-b704-3578f9018b34": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "142",
+			"elementId": "mystique"
+		},
+		"-1170_-520_688e124c-0960-416e-8bfd-0094e0afd663": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "gloverandgloverjuniorjob_demotion"
+		},
+		"720_-520_6fd9d38a-e6d5-4889-b730-cf53de5579bf": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "cat_c"
+		},
+		"-810_-130_2e64ee7f-48ec-4b61-beb2-84150d66909c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "95",
+			"elementId": "mystique"
+		},
+		"360_-260_fdfd7fc5-6c72-4bb6-9b14-6b2293089c4a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_moth"
+		},
+		"540_0_d6a8a09b-4ee2-4ac3-9e5e-831a7ff8191c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "roseofwaznei"
+		},
+		"720_-260_9d704220-c82f-4ad8-a811-3a315783a540": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationauctionhouse"
+		},
+		"1350_-130_e44f6245-b878-4eb5-b6b1-c70c00c5960f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientlanternb"
+		},
+		"360_-390_8dce9a3a-23d2-4446-acd1-2a0c72a256bc": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentheart"
+		},
+		"1350_0_f1467920-58e1-4525-b52c-5d0e28d67d0c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toolmothb"
+		},
+		"-1080_130_4926f245-9908-4e5a-824d-cce1ee6c1ca0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "213",
+			"elementId": "mystique"
+		},
+		"1170_-390_57021d5d-d407-484d-b4ea-a4107f9c244f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ascensionenlightenmentb"
+		},
+		"810_-260_a52c6eef-7a9f-44ce-8b39-e6d4aa1a23fa": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationbookdealer"
+		},
+		"1170_-520_78b98139-4c1f-4731-a676-ff2964b16e5a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generichq"
+		},
+		"-360_-520_007f93c3-b458-47aa-ab94-aa05e36a3b2f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "93",
+			"elementId": "glimmering"
+		},
+		"270_-130_0d0c2cd2-bcfa-495e-9fe2-f78faa0f9414": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "dorothy_c"
+		},
+		"1170_-260_375d6387-0802-4e4d-a92e-09ef722dc5f3": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "cultlantern_1"
+		},
+		"540_-520_99625ef2-49ca-468b-bb2b-2271b37c8085": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "auclair_c"
+		},
+		"540_130_33648be9-35aa-4d1f-87d8-faeea81821aa": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "shavenlocktantrasanskrit"
+		},
+		"180_-130_3ba11daf-43cd-420d-bf86-d81dd5543912": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "rose_c"
+		},
+		"-180_-520_118cf1b8-9001-4736-ab12-126328445cfe": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "38",
+			"elementId": "glimmering"
+		},
+		"810_-520_04886ea0-547a-4ad4-a43c-044a7f8397f1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "saliba_c"
+		},
+		"900_260_c3f2c04b-eb0c-400f-99f5-2c453f054ab8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "jannings"
+		},
+		"810_390_46d79db1-6d57-4e3b-ac9b-5c5eb146b0ae": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlelanternc"
+		},
+		"1260_-130_296b156a-23c3-405e-a02a-fc16c946e821": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientedgeb"
+		},
+		"-540_-260_51515656-521c-4d2d-8325-b1dee2046ddb": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"720_-390_4d4685da-1061-42b5-bfd7-26066300c028": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentgrail"
+		},
+		"-720_0_55401715-1705-426e-a4c5-005b1c04fbf1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "142",
+			"elementId": "mystique"
+		},
+		"90_-130_212c9927-033d-4b84-86d8-31cffd155072": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "victor_c"
+		},
+		"-990_130_850f9938-2bc4-45e5-b8ce-f68fdf28b83f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "95",
+			"elementId": "mystique"
+		},
+		"630_130_0009aa68-9bc9-42dd-abff-6c5d1a3d76b1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ceaselesstantrasanskrit"
+		},
+		"-1080_-260_353dd79a-5964-4a48-b8d7-3b884deb16b2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waystag_after"
+		},
+		"590.0002_260.0001_b8bb6e4d-bdce-4599-8e88-a45a7b9c988b": {
+			"quantity": "59",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "funds"
+		},
+		"450_130_d2552dbc-cfdb-4b35-ab4b-1dba4dd5210d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "watchfultantrasanskrit"
+		},
+		"1080_260_55179b4f-a505-45cc-aa93-7d622629d560": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "poppycommissionready"
+		},
+		"180_-260_7e00d8bd-65dc-41a9-95fb-95fa6a9b9e5e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_c_grail"
+		},
+		"630_0_4d665172-a7d9-4371-8034-17f5796f9b06": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "travellingatnight1"
+		},
+		"540_-130_1d9668bb-fa6f-4f93-a44d-4da32d0e2834": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "violet_c"
+		},
+		"450_0_9b7d94a5-9153-47bb-a4ec-4522ab61e11d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "bookofthrones"
+		},
+		"360_260_0395b9ba-5fdf-44a5-9b30-9e615c6dc1c2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "dehoris1latin"
+		},
+		"1440_-130_272729c0-3c5a-4b26-af9b-294c3e54a06b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toolwinterb"
+		},
+		"270_390_f3f0b975-7bd0-4479-8943-39c3add1f0f6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations3latin"
+		},
+		"360_130_73e52843-a796-4502-9f10-7b184d1a7534": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "sunsetpassageslatin"
+		},
+		"-90_-390_a96ae4f8-cb5c-43a3-a0b8-5f5bc3600d93": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "93",
+			"elementId": "glimmering"
+		},
+		"720_260_bdccfe0b-d734-4e92-a0d3-0d8a3368bf8d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "compensationc"
+		},
+		"-900_0_1c7537f9-4254-4633-91b0-92a284c6db73": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "249",
+			"elementId": "mystique"
+		},
+		"1260_-260_684e7d08-9091-46a0-b918-71b5f5dc41df": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ritetoolconsumefollower"
+		},
+		"810_0_6955f029-b296-4a01-8a8d-9f18aba55f0e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillreasonb"
+		},
+		"270_-260_c9795c05-bf95-4a0e-9d8e-86cf415e263d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_winter"
+		},
+		"1260_130_fa2b57bf-b797-44e3-8183-796bc42d21a9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholararamaic"
+		},
+		"-630_-520_28807a83-f361-4153-aa96-1375c69b34f3": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "health"
+		},
+		"-720_130_d96df78d-6dd0-4774-b1db-94a86b7320e1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "244",
+			"elementId": "notoriety"
+		},
+		"1170_0_d9b11fb9-7643-4fc6-b0ca-1ead8c9de592": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholarlatin"
+		},
+		"-1080_0_9b317e99-0512-4dc4-80df-6550c4ca6328": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "93",
+			"elementId": "fascination"
+		},
+		"1260_0_0c9ec35d-1f53-4025-94cb-39fe543ab418": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholargreek"
+		},
+		"450_-390_a7fbba4f-6a37-42ad-a807-cb7fbb8ec7b9": {
+			"quantity": "3",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesb"
+		},
+		"-630_-260_1212debc-ac95-4d5e-aec3-68bbaba70e92": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"900_390_eb182c40-6438-412f-9d67-8598cdd0f0a0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticleheartc"
+		},
+		"-270_-390_fa545321-d44d-424f-9609-815772996edf": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "passion"
+		},
+		"990_260_a7f5e368-a93a-47fa-b18e-0fb6d23116c2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "bechet"
+		},
+		"270_130_be32e7a1-de51-4ec1-b9ae-58fbab5203b6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations2latin"
+		},
+		"-270_-520_1407b2d3-36e4-49ba-a075-50dbd138d3da": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "93",
+			"elementId": "glimmering"
+		},
+		"180_-390_74425f8c-df4a-4216-8766-7d48cb82b3b9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentforge"
+		},
+		"-450_-520_288ab921-72d5-4f53-9998-3afc2b3d6252": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "health"
+		},
+		"1170_-130_17ee437d-bc44-47de-980d-9313a7a41fe3": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toollanternb"
+		},
+		"270_-390_9c6a1d30-9ecf-40a6-8ddc-d5b311918bb2": {
+			"quantity": "3",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesc"
+		},
+		"-90_-260_2bc085c8-5c57-42c4-9423-d7f3c496a84b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "39",
+			"elementId": "erudition"
+		},
+		"360_-520_ecbd03e9-5ee3-4c3e-9f6a-be6a2679e8a5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "sylvia_c"
+		},
+		"-720_-260_caa4290a-b23b-4b98-8ec6-e626373e270d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillhealthb"
+		},
+		"360_-130_0103f061-6892-49bc-81cd-afe4a1ee614e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "clovette_c"
+		},
+		"-450_0_50c60d47-7f70-4651-81fb-5733fcce4e2e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "31",
+			"elementId": "contentment"
+		},
+		"630_-390_e1d86d80-de36-48db-adda-96a76b1cf46a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentknockc"
+		},
+		"-90_-520_430052ef-914f-4a1d-86de-a3967a8cf767": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "22",
+			"elementId": "glimmering"
+		},
+		"-450_-260_b8cbb332-21b7-43df-b267-dbfd0082a726": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-810_0_3b9e1e27-87bd-4eff-aaac-dcf0f8a7a3d3": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"720_390_91eca0a1-999c-433f-93e2-6345a0b19e19": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "compensation"
+		},
+		"-990_-130_44d48ccb-b7a4-4bb4-924c-c41593a9685d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "271",
+			"elementId": "mystique"
+		},
+		"990_390_cec95485-d3b7-4649-a7ed-fba3414c3837": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlemothc"
+		},
+		"-900_260_1d4e554e-9633-4370-a922-e65825891375": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"-720_-130_bb91860a-5312-4acb-ba32-3cd0d19539d7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "31",
+			"elementId": "contentment"
+		},
+		"-540_-1.525879E-05_89af6a00-2cb6-4697-8150-962d62ca83ea": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "142",
+			"elementId": "dread"
+		},
+		"630_-260_751ed946-9901-4cb4-baa2-d4c8ab88eee4": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationcabaret"
+		},
+		"540_-390_f10b83e7-b64a-4c3d-a206-5f935529bf60": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentlanternb"
+		},
+		"270_-520_1b9fa873-e913-4871-b9db-da9124360b75": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "leo_c"
+		},
+		"270_260_4e60a717-0123-4e65-89c6-996aac1fb3bb": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations1latin"
+		},
+		"-180_-390_7662c72e-8c80-4ea8-8652-9d24a773d49c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "31",
+			"elementId": "passionexhausted"
+		},
+		"-900_-130_dc5efed1-ca94-4e54-b3c0-d1aff8d816de": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "271",
+			"elementId": "mystique"
+		},
+		"90_-390_450d1d01-65e9-4756-a7fe-c273e1a51a92": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentedge"
+		},
+		"0_-260_196a7a47-8cd6-4f0f-baf0-3294d2df66e2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "151",
+			"elementId": "glimmering"
+		},
+		"450_-260_0c4eb0b1-6f1c-40b5-92ed-12c46536c85c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "tristan_a"
+		},
+		"270_0_cba962d6-ed8a-44ab-94a7-308c87034df0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "silverbookfucine"
+		}
+	},
+	"decks": {
+		"seasonevents": {
+			"eliminatedCards": [
+			],
+			"1": "seasonsuspicion",
+			"2": "seasonvisions",
+			"3": "seasonsuspicion",
+			"4": "seasonvisions",
+			"5": "seasondespair"
+		},
+		"janningscommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticleedgec",
+			"2": "commissionarticleedgeb",
+			"3": "commissionarticleheartb",
+			"4": "commissionarticleheart",
+			"5": "commissionarticleedge"
+		},
+		"mansus_wood2": {
+			"eliminatedCards": [
+			],
+			"1": "influenceknock",
+			"2": "rumour"
+		},
+		"dreamreasonresults": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "fascination",
+			"3": "dread",
+			"4": "restlessness",
+			"5": "contentment"
+		},
+		"paintingresultsbasic": {
+			"eliminatedCards": [
+			],
+			"1": "glimmering",
+			"2": "contentment",
+			"3": "glimmering",
+			"4": "glimmering"
+		},
+		"mansus_stagdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "influenceedgee",
+			"2": "influencegrailc"
+		},
+		"mansus_stagdoor2": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesd",
+			"2": "fascination"
+		},
+		"randomvictim": {
+			"eliminatedCards": [
+			],
+			"1": "genericprisonerm",
+			"2": "genericprisonerf"
+		},
+		"scholarpatrons": {
+			"eliminatedCards": [
+			]
+		},
+		"mansus_spiderdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "influenceforgeg",
+			"2": "ingredientforgef",
+			"3": "fragmentsecrethistoriese",
+			"4": "fascination"
+		},
+		"mansus_spiderdoor2": {
+			"eliminatedCards": [
+			],
+			"1": "influencewintere",
+			"2": "influencelanterne",
+			"3": "fragmentsecrethistoriesc",
+			"4": "influencemothe",
+			"5": "influenceknockg",
+			"6": "fascination"
+		},
+		"troublemakerconversations": {
+			"eliminatedCards": [
+			],
+			"1": "erudition",
+			"2": "fascination",
+			"3": "erudition",
+			"4": "glimmering",
+			"5": "dread",
+			"6": "dread",
+			"7": "erudition",
+			"8": "fascination",
+			"9": "glimmering"
+		},
+		"cabaretevents": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "fascination",
+			"3": "glimmering",
+			"4": "influencegrail",
+			"5": "contentment",
+			"6": "fascination",
+			"7": "notoriety",
+			"8": "contentment",
+			"9": "erudition",
+			"10": "influencemoth",
+			"11": "contentment"
+		},
+		"robberyrewards": {
+			"36": "compensation",
+			"37": "jumble",
+			"38": "compensationb",
+			"39": "ingredientedgeb",
+			"eliminatedCards": [
+			],
+			"40": "funds",
+			"41": "jumble",
+			"42": "ingredientmothb",
+			"43": "funds",
+			"44": "funds",
+			"45": "compensation",
+			"46": "compensationb",
+			"47": "funds",
+			"10": "toollanternbcracked",
+			"11": "ingredientforgeb",
+			"12": "funds",
+			"13": "funds",
+			"14": "compensation",
+			"15": "funds",
+			"16": "funds",
+			"17": "compensation",
+			"1": "funds",
+			"2": "jumble",
+			"3": "funds",
+			"4": "ingredientgrailb",
+			"5": "funds",
+			"6": "funds",
+			"7": "funds",
+			"8": "funds",
+			"9": "funds",
+			"20": "jumble",
+			"21": "funds",
+			"22": "toolgrailb",
+			"23": "funds",
+			"24": "toolsecrethistoriesb",
+			"25": "ingredientheartb",
+			"26": "funds",
+			"27": "funds",
+			"28": "funds",
+			"29": "funds",
+			"18": "compensation",
+			"19": "ingredientknockb",
+			"30": "funds",
+			"31": "funds",
+			"32": "compensation",
+			"33": "jumble",
+			"34": "compensationb",
+			"35": "funds"
+		},
+		"citysecrets": {
+			"eliminatedCards": [
+				"locationbookdealer"
+			]
+		},
+		"streetsstrangefinds": {
+			"eliminatedCards": [
+			]
+		},
+		"mansus_wood1": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "rumour"
+		},
+		"vaultslandbeyondforest": {
+			"eliminatedCards": [
+			],
+			"1": "vaultlandbeyondforest1",
+			"2": "vaultlandbeyondforest3",
+			"3": "vaultlandbeyondforest2",
+			"4": "vaultlandbeyondforest4"
+		},
+		"exploreevents": {
+			"eliminatedCards": [
+			],
+			"1": "dayplaces",
+			"2": "dayplaces",
+			"3": "daycriminals"
+		},
+		"mansus_whitedoor": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesb",
+			"2": "influencewinterc"
+		},
+		"mansus_peacockdoor": {
+			"eliminatedCards": [
+			],
+			"1": "scholarvak",
+			"2": "influencelanterng",
+			"3": "fragmentsecrethistoriese",
+			"4": "fascination"
+		},
+		"poppycommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticlewinterc",
+			"2": "commissionarticlewinterb",
+			"3": "commissionarticleknockb",
+			"4": "commissionarticleknock",
+			"5": "commissionarticlewinter",
+			"6": "commissionarticleknockc"
+		},
+		"acquaintances": {
+			"eliminatedCards": [
+			],
+			"1": "porter_a",
+			"2": "generic_a_knock",
+			"3": "laidlaw_a",
+			"4": "generic_a_forge",
+			"5": "generic_a_heart",
+			"6": "ysabet_a",
+			"7": "slee_a",
+			"8": "enid_a"
+		},
+		"paintingresultsreputation": {
+			"eliminatedCards": [
+			],
+			"1": "funds",
+			"2": "funds",
+			"3": "funds",
+			"4": "funds",
+			"5": "funds",
+			"6": "funds",
+			"7": "funds",
+			"8": "mystique",
+			"9": "funds",
+			"10": "funds",
+			"11": "funds",
+			"12": "mystique",
+			"13": "funds",
+			"14": "funds",
+			"15": "funds"
+		},
+		"mansus_peacockdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "ingredientgraild",
+			"2": "influencegrailg",
+			"3": "favour",
+			"4": "fragmentsecrethistoriesf",
+			"5": "fascination"
+		},
+		"mansus_wood": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistories"
+		},
+		"mansus_whitedoor1": {
+			"eliminatedCards": [
+			],
+			"1": "glimmering",
+			"2": "fragmentsecrethistoriesc",
+			"3": "fascination",
+			"4": "erudition",
+			"5": "influenceknockc"
+		},
+		"mansus_whitedoor2": {
+			"eliminatedCards": [
+			],
+			"1": "influencelanternc",
+			"2": "contentment",
+			"3": "glimmering"
+		},
+		"vaultscontinent": {
+			"eliminatedCards": [
+			],
+			"1": "vaultcontinent1",
+			"2": "vaultcontinent3",
+			"3": "vaultcontinent2",
+			"4": "vaultcontinent4"
+		},
+		"mansus_stagdoor": {
+			"eliminatedCards": [
+			],
+			"1": "influenceknocke",
+			"2": "fragmentsecrethistoriesc"
+		},
+		"vaultseveningisles": {
+			"eliminatedCards": [
+			],
+			"1": "vaulteveningisles1",
+			"2": "vaulteveningisles3",
+			"3": "vaulteveningisles2",
+			"4": "vaulteveningisles4"
+		},
+		"vaultsshires": {
+			"eliminatedCards": [
+			]
+		},
+		"hunters": {
+			"eliminatedCards": [
+			],
+			"1": "investigator2",
+			"2": "investigator1",
+			"3": "investigator4"
+		},
+		"stagriddles": {
+			"eliminatedCards": [
+			],
+			"1": "waystagbefore_2",
+			"2": "waystagbefore_1",
+			"3": "waystagbefore_4",
+			"4": "waystagbefore_3"
+		},
+		"locationscapital": {
+			"eliminatedCards": [
+			],
+			"1": "vaultcapital1"
+		},
+		"aladimcommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticlesecrethistoriesc",
+			"2": "commissionarticlesecrethistoriesb",
+			"3": "commissionarticlelanternb",
+			"4": "commissionarticlelantern",
+			"5": "commissionarticlesecrethistories"
+		},
+		"oneoffrewards": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentknockb",
+			"2": "fragmentforgeb",
+			"3": "fragmentheartb",
+			"4": "fragmentmothb",
+			"5": "fragmentedgeb",
+			"6": "fragmentlanternb",
+			"7": "fragmentgrailb",
+			"8": "fragmentwinterb"
+		},
+		"mansus_peacockdoor2": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesf",
+			"2": "influencewinterg",
+			"3": "dread"
+		},
+		"vaultcontentsc": {
+			"36": "ingredientmothb",
+			"37": "irreproachabletraditionssocietynobleendeavourlatin",
+			"38": "dehoris2latin",
+			"39": "toolgrailb",
+			"eliminatedCards": [
+				"apolloandmarsyas",
+				"victoryofcrowns"
+			],
+			"40": "ingredientedgeb",
+			"41": "toolgrailmoth",
+			"42": "debellismurorum",
+			"43": "textbookfucine",
+			"44": "treatiseonunderplaces",
+			"45": "bookofcentipedegreek",
+			"46": "furioustantrasanskrit",
+			"47": "textbooklatin",
+			"48": "ingredientknockb",
+			"49": "ingredientlanternb",
+			"10": "matthiasamethystpursuitaramaic",
+			"11": "chioneatabydos",
+			"12": "locksmithsdream3",
+			"13": "compensationb",
+			"14": "compensationb",
+			"15": "ingredientforgeb",
+			"16": "roseofnurielgreek",
+			"17": "toollanternbcracked",
+			"1": "toollanterndcracked",
+			"2": "franklinbancroftdiarieslatin",
+			"3": "toolknockb",
+			"4": "ingredientmothb",
+			"5": "compensation",
+			"6": "ingredientwinterb",
+			"7": "tooledgeb",
+			"8": "ingredientgrailb",
+			"9": "roseofhypatiagreek",
+			"20": "travellingatnight3",
+			"21": "ingredientheartb",
+			"22": "ingredientgrailb",
+			"23": "accountkanishkspidersdooraramaic",
+			"24": "toolforgeb",
+			"25": "ingredientforgeb",
+			"26": "tantrawormssanskrit",
+			"27": "compensation",
+			"28": "ingredientwinterb",
+			"29": "indignitiesobliviatelatin",
+			"18": "encirclingtantrasanskrit",
+			"19": "matthiasamethystlossaramaic",
+			"50": "matthiasamethysttransformationaramaic",
+			"30": "ingredientknockb",
+			"31": "toolheartb",
+			"32": "textbooksanskrit",
+			"33": "gospelzacchaeusgreek",
+			"34": "compensation",
+			"35": "compensationb"
+		},
+		"paintingresults": {
+			"eliminatedCards": [
+			],
+			"1": "glimmering",
+			"2": "mystique",
+			"3": "contentment",
+			"4": "mystique",
+			"5": "mystique",
+			"6": "mystique",
+			"7": "mystique",
+			"8": "glimmering",
+			"9": "mystique",
+			"10": "glimmering",
+			"11": "glimmering",
+			"12": "contentment",
+			"13": "mystique",
+			"14": "contentment",
+			"15": "glimmering",
+			"16": "glimmering"
+		},
+		"auctionedcommontomes": {
+			"eliminatedCards": [
+				"apolloandmarsyas",
+				"waroftheroadscensored",
+				"introductiontohistories",
+				"victoryofcrowns",
+				"onthewhite",
+				"skeletonsongs",
+				"travellingatnight2",
+				"orchidtransfigurations2latin",
+				"humoursofagentleman",
+				"onwhatiscontainedbysilvergreek",
+				"dehoris1latin",
+				"locksmithsdream2",
+				"burningofunburntgod",
+				"orchidtransfigurations1latin",
+				"travellingatnight1"
+			],
+			"1": "queensoftherivers",
+			"2": "textbookpassion",
+			"3": "textbookgreek",
+			"4": "sixlettersonnecessity",
+			"5": "stumm",
+			"6": "textbookpassion",
+			"7": "truecompleteasclepiangreek",
+			"8": "textbookreason",
+			"9": "debellismurorumlatin",
+			"10": "textbooksanskrit",
+			"11": "textbooklatin",
+			"12": "locksmithsdream1",
+			"13": "textbookreason"
+		},
+		"commontomes": {
+			"eliminatedCards": [
+			],
+			"1": "locksmithsdream1",
+			"2": "textbookreason",
+			"3": "sixlettersonnecessity",
+			"4": "textbooksanskrit",
+			"5": "textbookpassion",
+			"6": "queensoftherivers"
+		},
+		"randominfluencelow": {
+			"36": "influencewinter",
+			"37": "influenceedge",
+			"38": "influencelanternc",
+			"39": "influencelantern",
+			"eliminatedCards": [
+			],
+			"40": "influencegrailc",
+			"41": "influenceheart",
+			"42": "influenceknockc",
+			"43": "influencewinterc",
+			"44": "influencemoth",
+			"45": "influencemothc",
+			"46": "influencemothc",
+			"47": "influencemoth",
+			"48": "influenceknock",
+			"10": "influenceforgec",
+			"11": "influenceheartc",
+			"12": "influenceforge",
+			"13": "influenceknock",
+			"14": "influencewinterc",
+			"15": "influencemoth",
+			"16": "influenceedgec",
+			"17": "influenceheart",
+			"1": "influencelantern",
+			"2": "influenceforgec",
+			"3": "influenceheart",
+			"4": "influenceknockc",
+			"5": "influenceheartc",
+			"6": "influencegrail",
+			"7": "influenceedgec",
+			"8": "influencewinterc",
+			"9": "influenceforgec",
+			"20": "influencemothc",
+			"21": "influencegrailc",
+			"22": "influencegrail",
+			"23": "influencewinter",
+			"24": "influencelantern",
+			"25": "influenceedgec",
+			"26": "influencelanternc",
+			"27": "influenceedge",
+			"28": "influencewinter",
+			"29": "influenceforge",
+			"18": "influenceedge",
+			"19": "influenceforge",
+			"30": "influencelanternc",
+			"31": "influenceknockc",
+			"32": "influencegrailc",
+			"33": "influencegrail",
+			"34": "influenceheartc",
+			"35": "influenceknock"
+		},
+		"bechetcommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticlegrailc",
+			"2": "commissionarticleforgec",
+			"3": "commissionarticlegrailb",
+			"4": "commissionarticlemothb",
+			"5": "commissionarticleforge",
+			"6": "commissionarticleforgeb",
+			"7": "commissionarticlemoth",
+			"8": "commissionarticlegrail"
+		},
+		"talkevents": {
+			"eliminatedCards": [
+			],
+			"1": "dayacquaintances",
+			"2": "dayacquaintances",
+			"3": "dayacquaintances",
+			"4": "dayacquaintances",
+			"5": "dayacquaintances",
+			"6": "daypatrons",
+			"7": "daypatrons",
+			"8": "dayacquaintances"
+		},
+		"vaultsrendingmountains": {
+			"eliminatedCards": [
+			],
+			"1": "vaultrendingmountains1",
+			"2": "vaultrendingmountains3",
+			"3": "vaultrendingmountains2",
+			"4": "vaultrendingmountains4"
+		},
+		"vaultcontentsr": {
+			"36": "toolforgef",
+			"37": "timedivisionmandaic",
+			"38": "originsofhoursvak",
+			"39": "birdsongphrygian",
+			"eliminatedCards": [
+			],
+			"40": "dreamconspiracyskiesphrygian",
+			"41": "ingredientedgef",
+			"42": "fivecreationsvak",
+			"43": "bookextinguishedheartmandaic",
+			"44": "voyagesfofucine",
+			"45": "compensationd",
+			"46": "inthemountainsasupontheplainvak",
+			"47": "wherehasshegonevak",
+			"48": "compensationd",
+			"49": "ingredientknockf",
+			"10": "bookwhitecatphrygian",
+			"11": "toolmothf",
+			"12": "ingredientwinterf",
+			"13": "compensationd",
+			"14": "compensationd",
+			"15": "medusaslamentgreek",
+			"16": "ingredientgrailf",
+			"17": "manneralchemistsparedvak",
+			"1": "ingredientheartf",
+			"2": "focusambermandaic",
+			"3": "ingredientforgef",
+			"4": "ingredientforgef",
+			"5": "compensationd",
+			"6": "ingredientgrailf",
+			"7": "ingredientknockf",
+			"8": "toolgrailf",
+			"9": "bookofmasksphrygian",
+			"52": "scarskyfucine",
+			"53": "memoryofgodsfucine",
+			"20": "manualdeparturevak",
+			"21": "ingredientlanternf",
+			"22": "commandspreservationallexistsmandaic",
+			"23": "compensationd",
+			"24": "songscarapacecrossmandaic",
+			"25": "ingredientedgef",
+			"26": "textbookvaksanskrit",
+			"27": "sevenfoldslayingsevencoiledfucine",
+			"28": "compensationd",
+			"29": "compensationd",
+			"51": "howendwillbeginvak",
+			"18": "bighufffucine",
+			"19": "ingredientmothf",
+			"50": "toollanternf",
+			"30": "toolwinterf",
+			"31": "ingredientlanternf",
+			"32": "ingredientmothf",
+			"33": "ingredientheartf",
+			"34": "toolknockf",
+			"35": "toolheartf"
+		},
+		"mansus_spiderdoor": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesd",
+			"2": "influencegraile",
+			"3": "favour"
+		},
+		"hirelings": {
+			"eliminatedCards": [
+			],
+			"1": "thugedgeminor",
+			"2": "thugmothminor",
+			"3": "thugmothminor"
+		},
+		"vaultcontentsu": {
+			"36": "compensationc",
+			"37": "ingredientlanternd",
+			"38": "firecircletantrasanskrit",
+			"39": "vinzantinscriptionsphrygian",
+			"eliminatedCards": [
+			],
+			"40": "toolknockd",
+			"41": "ingredientforged",
+			"42": "toolforged",
+			"43": "flayedtantrasanskrit",
+			"44": "thirstingtantrasanskrit",
+			"45": "leoninetantrasanskrit",
+			"46": "twentysixenticementsseventormentsfucine",
+			"47": "theskythesoularamaic",
+			"48": "highmysterieschurchsolarfucine",
+			"49": "ingredientlanternd",
+			"10": "concursumdiariesphrygian",
+			"11": "bookofdissolutionmandaic",
+			"12": "twinserpenttantrasanskrit",
+			"13": "morphycodexaramaic",
+			"14": "compensationc",
+			"15": "compensationc",
+			"16": "ingredientgraild",
+			"17": "asthesunhiscoursearamaic",
+			"1": "toolwinterd",
+			"2": "catalogueofunchartedpleasuresphrygian",
+			"3": "toollanternfcracked",
+			"4": "ingredientwinterd",
+			"5": "compensationc",
+			"6": "tooledged",
+			"7": "toolgraild",
+			"8": "incandescenttantrasanskrit",
+			"9": "ingredientforged",
+			"52": "ingredientmothd",
+			"53": "bookoftruebloodlatin",
+			"54": "serenityofblackwoodgreek",
+			"55": "textbookfucinelatin",
+			"56": "compensationc",
+			"57": "ironbookfucine",
+			"58": "onthematterandthedeedsofserpentsvak",
+			"59": "compensationc",
+			"20": "worlddoesnotweeparamaic",
+			"21": "larquebinecodexphrygian",
+			"22": "ingredientgraild",
+			"23": "ingredientheartd",
+			"24": "historyofshadowlesskingsaramaic",
+			"25": "toolheartd",
+			"26": "ingredientedged",
+			"27": "burningwomanphrygian",
+			"28": "compensationc",
+			"29": "ingredientedged",
+			"60": "geminiadfucine",
+			"61": "ingredientknockd",
+			"51": "deedsofthescarredcaptaingreek",
+			"18": "toolmothd",
+			"19": "secondglorymandaic",
+			"50": "ingredientknockd",
+			"30": "thosewhodonotsleepfucine",
+			"31": "ingredientheartd",
+			"32": "toollanternd",
+			"33": "textbookmandaicaramaic",
+			"34": "ivorybookfucine",
+			"35": "compensationc"
+		},
+		"vaultsloneandlevelsands": {
+			"eliminatedCards": [
+			],
+			"1": "vaultloneandlevelsands1",
+			"2": "vaultloneandlevelsands3",
+			"3": "vaultloneandlevelsands2",
+			"4": "vaultloneandlevelsands4"
+		}
+	},
+	"metainfo": {
+		"VERSIONNUMBER": "2018.8.a.2",
+		"BirdWormSlider": "0",
+		"WeAwaitSTE": "Hello, Seeker. If you're here to decipher enigmas, familiarise yourself with the eidesis in which were presented the Lion, the Boar and the Bull, and present it in turn to the sky."
+	},
+	"characterDetails": {
+		"profession": "Aspirant",
+		"pastLevers": {
+			"LastCult": "cultlantern_1",
+			"LastFollower": "ysabet_c",
+			"LastTool": "toollanternb",
+			"LastBook": "treatiseonunderplaces",
+			"LastDesire": "ascensionenlightenmenta",
+			"LastCharacterName": "AssistentIvo",
+			"LastPersonKilled": "neville_a",
+			"LastHeadquarters": "generichq",
+			"LastSignificantPainting": "paintingmansus"
+		},
+		"futureLevers": {
+			"LastCult": "cultlantern_1",
+			"LastFollower": "ysabet_c",
+			"LastTool": "toolmothb",
+			"LastBook": "bookofthrones",
+			"LastDesire": "ascensionenlightenmenta",
+			"LastCharacterName": "AspDent",
+			"LastPersonKilled": "neville_a",
+			"LastHeadquarters": "generichq",
+			"LastSignificantPainting": "paintingmansus"
+		},
+		"executions": {
+			"followeraction_augurymidlantern": "1",
+			"speakpublicly": "19",
+			"painthasfunds": "77",
+			"paintingqualitygood": "23",
+			"studytravellingatnight2": "1",
+			"bequestarrives": "1",
+			"studyreason": "13",
+			"studyincreasereasonskilla": "1",
+			"explorevaultshires4_success": "1",
+			"explorevaultperil_treacherousground_midlantern": "3",
+			"paintingreputation_celebrated": "4",
+			"explorefindcriminal": "15",
+			"getcommissionaladim": "1",
+			"cultfoundation_reason": "1",
+			"studyproject_upgrade_lantern": "1",
+			"getcommissionjannings": "1",
+			"studybequestreason": "1",
+			"workhealthskilla": "5",
+			"workhealthskillb": "9",
+			"evidencedestroyfailure": "1",
+			"studymapbookdealer": "1",
+			"dreamreachwhiteknock": "1",
+			"studyonthewhite": "1",
+			"despairabate": "9",
+			"paintfourpassion": "3",
+			"dreamreachwoodlantern": "1",
+			"dreamenterwhite": "1",
+			"followeraction_auguryfailure": "1",
+			"explorevaultcapital3_success": "1",
+			"paintaddpigment": "53",
+			"painthaslore": "1",
+			"evidencedestroynomoth": "1",
+			"talktofollower": "1",
+			"visionsrisk": "10",
+			"bequestcountdown": "1",
+			"workintrojob": "1",
+			"studyhumoursofagentleman": "1",
+			"paintnopassion": "23",
+			"studyproject_upgrade_subvert_knock": "2",
+			"explorefollower": "22",
+			"studyincreasepassionstarter": "1",
+			"explorevaultguardian_dead_success_winter": "1",
+			"paintluck": "41",
+			"dreamenterstag": "7",
+			"begincultfoundation": "1",
+			"explore_vaultcapital3_setup": "1",
+			"workhealth_noinjurychance": "2",
+			"translate": "4",
+			"paintingreputation_notable": "30",
+			"dreamusewoodway": "1",
+			"studyresearchsuccess": "6",
+			"cultfoundation_firstrecruit": "1",
+			"paintthreepassion": "1",
+			"poppysatiated": "1",
+			"visionsactive": "17",
+			"paintingreputation_famed": "13",
+			"explorevaultcapital4_success": "1",
+			"studypassion": "7",
+			"dreamenterwood": "26",
+			"studytextbookaramaic": "1",
+			"sickness": "7",
+			"promotetodisciplelantern": "17",
+			"explorevaultcurse_dread_failure": "1",
+			"getcommissionbechet": "1",
+			"talkmeetpatron": "4",
+			"recoverillhealthfundsvitality": "5",
+			"nightmarehersault": "1",
+			"studyresearchreasonsuccess": "9",
+			"dream_answerstagriddle_5": "1",
+			"studyincreasereasonstarter": "1",
+			"paintingqualityglorious": "2",
+			"studyresearchneedserudition": "4",
+			"explore_vaultshires2_setup": "1",
+			"despairrisklink": "14",
+			"studyintroductiontohistories": "1",
+			"reducedread": "2",
+			"findclericalwork": "1",
+			"explorevaultshires3_success": "1",
+			"studytextbookpassion": "2",
+			"ascensionhintenlightenment2": "16",
+			"grailinduction": "2",
+			"dreamreachstagfirst": "1",
+			"paintingreputation_known": "2",
+			"evidencedestroylowmoth": "1",
+			"studyproject_upgrade_winter": "2",
+			"hunterattacksuccess": "1",
+			"explorevaultshires1_success": "1",
+			"heartinduction": "7",
+			"explorevaultguardian_serpent_success_edge": "1",
+			"lanterninduction": "9",
+			"studyresearchglimmeringsuccess": "3",
+			"suspicion": "7",
+			"suspiciongrabreputation": "4",
+			"discardseason": "91",
+			"explore_vaultcapital4_setup": "1",
+			"dreamvitality": "1",
+			"studyresearcheruditionsuccess": "1",
+			"explorevaultguardian_dead_midwinter": "2",
+			"despairactive": "12",
+			"cultfoundationlantern": "1",
+			"explorelocationstreetsstrange": "21",
+			"explorevaultseal_hiddendoor_midlantern": "1",
+			"recoverillhealthfunds": "2",
+			"explorevaultguardian_watchers_highedge": "1",
+			"painthasinfluence": "59",
+			"curse_dread_active": "2",
+			"paintresults": "77",
+			"studysecrethistorieslore": "1",
+			"ambition": "16",
+			"explorevaultseal_wardeddoor_highforge": "1",
+			"painthasfollower": "18",
+			"explorevaultguardian_serpent_highedge": "1",
+			"paintingreputation_significant": "24",
+			"explorevaultseal_wardeddoor_success": "1",
+			"explorevaultsuccess": "7",
+			"explorevaultperil_treacherousground_success": "3",
+			"visionsrisklink": "10",
+			"hunterattacklowedge": "2",
+			"explorefindplace": "14",
+			"studytextbookgreek": "2",
+			"studytextbooklatin": "1",
+			"paintingreputation_unknown": "1",
+			"studywaroftheroadscensored": "1",
+			"dream_router": "7",
+			"studyknocklore": "3",
+			"studytextbookreason": "2",
+			"studywinterlore": "2",
+			"poppytimebomb": "1",
+			"studyresearchtick": "20",
+			"studyproject_upgrade_secrethistories": "1",
+			"dreamreason": "4",
+			"studyskeletonsongs": "1",
+			"suspicion_searchlongerforevidence": "38",
+			"despairdefeated": "14",
+			"explorevaultshires2_success": "1",
+			"paintonepassion": "24",
+			"dreamascension_upgrade_enlightenment_1to2": "1",
+			"poppyofferaccept": "1",
+			"explorevaultsuccesslink": "7",
+			"explorevaultcurse_dread_lowheart": "1",
+			"explore_vaultshiresdefault_setup": "1",
+			"recoverfatigue": "5",
+			"pleasantday": "8",
+			"findacquaintanceopentalk": "1",
+			"evidencedestroysuccess": "1",
+			"hunterattackmidedge": "1",
+			"explorevault_expeditionbegun": "8",
+			"dreamcontentment": "1",
+			"studyresearchconsolation": "1",
+			"paintingqualityexceptional": "22",
+			"dreamglimmering": "2",
+			"explore_vaultcapital2_setup": "1",
+			"paintbasicsuccess": "1",
+			"studyburningofunburntgod": "1",
+			"studylanternlore": "1",
+			"explorevaultguardian_watchers_success_edge": "1",
+			"visionsdefeated": "10",
+			"explore_vaultshires4_setup": "1",
+			"dreamstartingpassion": "2",
+			"explorevaultcapital2_success": "1",
+			"explorepaycriminal": "12",
+			"explorelocationbookdealer": "21",
+			"despairrisk": "14",
+			"studyhealth": "5",
+			"hunterattackfailure": "2",
+			"explorevault_casualty": "1",
+			"explorefindvault_a": "3",
+			"explorefindvault_b": "5",
+			"explorehealth": "7",
+			"explore_vaultshires3_setup": "1",
+			"studylocksmithsdream2": "1",
+			"openexplore": "1",
+			"studycontactintro": "1",
+			"studyincreasepassionskillb": "1",
+			"explorevaulttick": "10",
+			"studyincreasepassionskilla": "1",
+			"paintingqualitycompetent": "23",
+			"studyincreasepassionskillc": "1",
+			"suspicioncreateevidence": "4",
+			"paintingqualitymagnificent": "7",
+			"nightmarecleansingdawnsuccess": "1",
+			"talkmeetacquaintance": "15",
+			"paintingreputation_noticed": "3",
+			"studyapolloandmarsyas": "1",
+			"dreamhealthcontentment": "1",
+			"cultfoundation_complete": "1",
+			"studydowngradefragmentforgeb": "1",
+			"suspicioncreatehunter": "2",
+			"explorevaultseal_hiddendoor_success": "1",
+			"painttwopassion": "17",
+			"visionsabate": "6",
+			"explorerumour": "5",
+			"mothinduction": "4",
+			"needs": "91",
+			"studyvictoryofcrowns": "1",
+			"studytextbookphrygian": "1",
+			"paintingreputationcheck": "77",
+			"explore_vaultshires1_setup": "1",
+			"introdream": "1",
+			"recruitacquaintancelantern": "19",
+			"talktohireling_rehire": "4",
+			"studyincreasehealthskilla": "1",
+			"studyincreasehealthstarter": "1",
+			"dreamrestlessness": "1",
+			"studyresearchneedsreason": "1",
+			"explorevaultguardian_dead_failure": "1",
+			"explorechoosepaycriminal": "3",
+			"studydowngradefragmentwinterb": "1",
+			"drawseason": "91",
+			"studyaramaictutoringpaid": "1"
+		},
+		"name": "AspDent",
+		"activeLegacy": NULL
+	},
+	"situations": {
+		"-810_-520_b6d5b6fe-880e-47f9-a3b2-9865c02078ba": {
+			"ongoingSlotElements": {
+				"Paints_c8dc78ea-4114-4e41-b70b-49365520bb12": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "funds"
+				}
+			},
+			"recipeId": "paintaddpigment",
+			"state": "Ongoing",
+			"title": "The Colours of Night",
+			"situationOutputNotes": {
+				"1": {
+					"title": "You never know. This might be a living. [Add Passion to make distinctive paintings. Add Mystique and especially Notoriety to attract attention and make more money. Be careful: if you use Notoriety, exhibiting paintings will keep you in the public eye.]"
+				},
+				"2": {
+					"title": "This should have an impact."
+				},
+				"3": {
+					"title": "I could spend money on better paints. Or, perhaps, I could find more exotic pigments..."
+				}
+			},
+			"timeRemaining": "13.45005",
+			"completioncount": "0",
+			"verbId": "work",
+			"situationWindowX": "-799.8746",
+			"situationWindowY": "15.79565",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_1deb13a1-5f1b-4e8d-85fc-a3d56b6054c3": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "skillpassionc"
+				},
+				"slot_storage_8149011d-3bb7-46c6-b6c3-008219854e5d": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "passion"
+				},
+				"slot_storage_8edb4040-1b91-4d13-a3da-65f9553d7234": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "passion"
+				},
+				"slot_storage_9d7a91df-d59c-40ba-a490-558887436022": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "19",
+					"elementId": "fleeting"
+				},
+				"slot_storage_4956b3d1-dbbb-42b8-a97b-0d0d1f92d918": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "passion"
+				},
+				"slot_storage_c937d1f6-5c1e-4fff-b7d9-b65c22284296": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "passion"
+				},
+				"slot_storage_37e131c5-49cc-4517-92c1-0168f0d923da": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "1",
+					"elementId": "insight"
+				}
+			},
+			"situationWindowOpen": "False"
+		},
+		"990_-260_dce3a360-3dec-4975-ae9f-aa662b15ff07": {
+			"ongoingSlotElements": {
+				"Assistance_7999719b-8a8a-4daf-8b74-8d8990f9c2f9": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "69",
+					"elementId": "thugforgeedge"
+				}
+			},
+			"recipeId": "explorevaulttick",
+			"state": "Ongoing",
+			"title": "The Expedition Continues",
+			"situationOutputNotes": {
+				"1": {
+					"title": "Slink along the streets to a once-fine townhouse. Surreptitiously case the back garden. Odd stories circulate about the woman who lives here. She might be an adept, a collector, or even the rare thing called <i>empousa</i>. We must be watchful. [Expeditions need at least one Funds per obstacle. Followers will defeat obstacles. If you run out of Funds or Followers, the Expedition ends.]"
+				},
+				"2": {
+					"title": "I have given my agents the opportunity to serve. Let us hope it ends well for us all."
+				},
+				"3": {
+					"title": "Our expedition plans for the next challenge. It'll consume Funds; I can add Funds now, or I could send another Follower."
+				}
+			},
+			"timeRemaining": "11.1502",
+			"completioncount": "0",
+			"verbId": "explore",
+			"situationWindowX": "824.4744",
+			"situationWindowY": "110.5965",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_017b64a5-913e-4ae2-889f-30ac54072cd6": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "seal_wardeddoor"
+				},
+				"slot_storage_202ad7ab-2e64-44d1-a4a3-286c9674f0b3": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "guardian_watchers"
+				},
+				"slot_storage_f421b846-3f2f-4077-a5ce-bc5a49e56f4e": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "funds"
+				},
+				"slot_storage_78fd2bca-34b2-4033-b20e-04cdb2385507": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "funds"
+				},
+				"slot_storage_5ca51378-a271-4361-a98c-6ef78a87f747": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "elridge_c"
+				},
+				"slot_storage_5aea9410-005c-4ccc-bd4e-5c23e6e842be": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "vaultshiresdefault"
+				},
+				"slot_storage_045a6afe-0ea6-4201-bc1d-7925d7fe2e7c": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "neville_c"
+				},
+				"slot_storage_d27c26f9-9683-42ba-814b-35cf4a0f7b34": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "curse_visions"
+				}
+			},
+			"situationWindowOpen": "False"
+		},
+		"990_-520_8bf91387-ebfa-4c6e-877e-9e1084818ee9": {
+			"ongoingSlotElements": {
+				"Subject_b3a6eaa4-0904-4d00-a724-0610c2f96c7e": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "275",
+					"elementId": "favour"
+				}
+			},
+			"recipeId": "talktohunter",
+			"state": "Ongoing",
+			"title": "Arrange a meeting with an adversary",
+			"situationOutputNotes": {
+				"1": {
+					"title": "Perhaps we could parley. Or perhaps I could send something to ambush them."
+				}
+			},
+			"timeRemaining": "9.150645",
+			"completioncount": "0",
+			"verbId": "talk",
+			"situationWindowX": "551.5913",
+			"situationWindowY": "7.36322",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_8152655a-ca15-4265-a36a-63a69bba4dc4": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "investigator3"
+				}
+			},
+			"situationWindowOpen": "False"
+		},
+		"990_0_356a7cc1-113c-4d29-a353-e7444c63bd86": {
+			"recipeId": "studyreason",
+			"state": "Ongoing",
+			"title": "Read Whatever Is To Hand",
+			"situationOutputNotes": {
+				"1": {
+					"title": "The world is awash with printed words. Even the newspapers contain knowledge, sometimes."
+				}
+			},
+			"timeRemaining": "13.15066",
+			"completioncount": "0",
+			"verbId": "study",
+			"situationWindowX": "509.6562",
+			"situationWindowY": "332.5071",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_49a63eb3-8ddb-456a-bc84-3cfec5f83834": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "reason"
+				}
+			},
+			"situationWindowOpen": "False"
+		},
+		"-90_520_e84be50c-ba4d-4342-9fcf-6d3792f2ace1": {
+			"ongoingSlotElements": {
+				"Expenses_a6ce2d5e-92e1-45d7-9bad-53bf8479af13": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "funds"
+				}
+			},
+			"recipeId": "needs",
+			"state": "Ongoing",
+			"title": "Time Passes",
+			"situationOutputNotes": {
+				"1": {
+					"title": "Time, the sundial's shadow, passes. I must have Funds to live, or I will become ill."
+				},
+				"2": {
+					"title": "I need Funds to live. But perhaps this recent upset in my circumstances is a secret blessing. Is there something to my dreams? There is a change in the air."
+				},
+				"3": {
+					"title": "Time, the sundial's shadow, passes. I must have Funds to live, or I will become ill."
+				}
+			},
+			"timeRemaining": "1.400628",
+			"completioncount": "0",
+			"verbId": "time",
+			"situationWindowX": "-242.4885",
+			"situationWindowY": "811.0089",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_b1541b49-a4d7-4f65-8596-ea5faaba1914": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "1",
+					"elementId": "seasonsickness"
+				}
+			},
+			"situationWindowOpen": "False"
+		},
+		"-990_-520_1893035f-78c7-4ebb-bbe7-ee36f3ec7d32": {
+			"ongoingSlotElements": {
+				"Ascent_e1ed71a2-03bb-4b8a-88f0-569358af82a1": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "health"
+				}
+			},
+			"recipeId": "dreamusewhiteway",
+			"state": "Ongoing",
+			"title": "Entering the White Door",
+			"situationOutputNotes": {
+				"1": {
+					"title": "In my dreams, I know the path to the White Door, through the Bounds. But that path is thronged with the Dead who pass that way. I will need Health to resist their chill."
+				},
+				"2": {
+					"title": "Now I can approach the White Door through the Bounds. Now I can press my fingers to it, feel its chill, watch it swing open. As it opens, my mouth closes, tightens, heals over like a lost deformity. Around and about me is the cobalt light of the Mansus..."
+				}
+			},
+			"timeRemaining": "1.800628",
+			"completioncount": "0",
+			"verbId": "dream",
+			"situationWindowX": "-729.3934",
+			"situationWindowY": "200.2154",
+			"situationWindowZ": "-100",
+			"situationStoredElements": {
+				"slot_storage_b36f667b-4917-42e0-ab3f-c105d374f482": {
+					"quantity": "1",
+					"markedForConsumption": "False",
+					"lifetimeRemaining": "0",
+					"elementId": "waywhite"
+				}
+			},
+			"situationWindowOpen": "False"
+		}
+	}
+}

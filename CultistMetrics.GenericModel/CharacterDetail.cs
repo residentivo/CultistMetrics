@@ -7,6 +7,11 @@ namespace CultistMetrics.GenericModel
 {
     public class CharacterDetail
     {
+        public CharacterDetail()
+        {
+            Levers = new List<Lever>();
+        }
+
         [Key]
         public int CharacterId { get; set; }
         public string Profession { get; set; }

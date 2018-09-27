@@ -5,6 +5,11 @@ namespace CultistMetrics.GenericModel
 {
     public class OngoingSlotElement
     {
+        public OngoingSlotElement()
+        {
+            OngoingSlotElementItems = new List<OngoingSlotElementItem>();
+        }
+
         [Key]
         public int OngoingSlotElementId { get; set; }
 

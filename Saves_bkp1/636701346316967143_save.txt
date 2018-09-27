@@ -1,0 +1,25 @@
+{
+	"defunctCharacterDetails": {
+		"futureLevers": {
+			"LastCult": "cultlantern_1",
+			"LastFollower": "victor_c",
+			"LastTool": "toollanternb",
+			"LastBook": "queensoftherivers",
+			"LastDesire": "ascensionenlightenmenta",
+			"LastCharacterName": "AspDent",
+			"LastPersonKilled": "neville_a",
+			"LastHeadquarters": "generichq",
+			"LastSignificantPainting": "paintingmansus"
+		},
+		"name": "AspDent"
+	},
+	"metainfo": {
+		"VERSIONNUMBER": "2018.8.a.2"
+	},
+	"currentending": "visionsending",
+	"availablelegacies": {
+		"physician": "physician",
+		"brightyoungthing": "brightyoungthing",
+		"aspirant": "aspirant"
+	}
+}

@@ -5,6 +5,10 @@ namespace CultistMetrics.GenericModel
 {
     public class SituationOutputStack
     {
+        public SituationOutputStack()
+        {
+            SituationOutputStackItems = new List<SituationOutputStackItem>();
+        }
         [Key]
         public int SituationOutputStacksId { get; set; }
 

@@ -7,6 +7,16 @@ namespace CultistMetrics.GenericModel
 {
     public class Situation
     {
+        public Situation()
+        {
+            SituationOutputNotes = new List<SituationOutputNote>();
+            SituationItems = new List<SituationItem>();
+            OngoingSlotElements = new List<OngoingSlotElement>();
+            SituationStoredElements = new List<SituationStoredElement>();
+            StartingSlotElements = new List<StartingSlotElement>();
+            SituationOutputStacks = new List<SituationOutputStack>();
+        }
+
         [Key]
         public int SituationId { get; set; }
 

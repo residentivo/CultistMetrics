@@ -23,6 +23,7 @@ namespace CultistMetrics.GenericModel
 
         public int Part { get; set; }
 
+        //public int CharacterId { get; set; }
         public virtual CharacterDetail CharacterDetail { get; set; }
     }
 }

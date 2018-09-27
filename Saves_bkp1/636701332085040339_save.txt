@@ -1,0 +1,945 @@
+{
+	"elementStacks": {
+		"-1080_260_f10b1fd7-c90d-47f0-9fd8-b3d8ffd16392": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "269",
+			"elementId": "mystique"
+		},
+		"-450_-390_e2ee8b1c-7daf-49d3-844b-f8e477b548a5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "passionexhausted"
+		},
+		"360_-260_7d225678-1309-4632-a8b5-8a1874891b12": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_moth"
+		},
+		"-360_-260_371d36e5-3429-4e9d-8a52-86e55276ee7d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-900_-260_a7b5d828-1cd9-4b8d-8852-3a258445beee": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywood"
+		},
+		"-630_-130_fd9361e7-ad56-429a-b9ce-8d1dbe48e032": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "contentment"
+		},
+		"-720_-130_d4187e77-5a03-4724-a6e1-ef39ab4d5a28": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "contentment"
+		},
+		"-720_0_7b6d7a18-3f75-438f-b69d-c7de9724c60a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "80",
+			"elementId": "mystique"
+		},
+		"630_0_c7348ba5-a3f0-443d-917e-b31061c4d1f6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "travellingatnight1"
+		},
+		"270_390_97f1bfc9-adeb-4eac-9c05-2ab662a92e26": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations3latin"
+		},
+		"360_-390_281cec25-e682-4694-a45b-b51bb1076565": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentheart"
+		},
+		"-900_-130_d9fd182e-700c-4c8c-950a-8c331989a8f7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "209",
+			"elementId": "mystique"
+		},
+		"90_-390_3da1050d-c497-4c23-8baa-8e8b12c8a02d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentedge"
+		},
+		"630_-390_9b653ca3-b3c2-4cb0-b369-af468498e9d0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentknockc"
+		},
+		"810_-520_742e95af-b41d-4d94-a8b5-03b4a80ff736": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "saliba_c"
+		},
+		"270_-390_9d72df24-165c-4111-b380-8d54b54816b3": {
+			"quantity": "3",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesc"
+		},
+		"-540_-390_d072b6cc-4cb5-41d8-8dd1-b474003a22ca": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "passionexhausted"
+		},
+		"360_260_24fafad8-2b0c-44ef-a4f5-f87e04270d19": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "dehoris1latin"
+		},
+		"360_-520_dba92b48-1268-47d3-8c1d-7c558ab1b099": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "sylvia_c"
+		},
+		"720_-260_dad979e0-fed9-4ee9-a580-da643a916da7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationauctionhouse"
+		},
+		"810_0_080c920e-1eff-431e-890e-f7712fe25a3e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "skillreasonb"
+		},
+		"360_130_9a9c6f87-037e-4d50-a961-797d26b3d50b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "sunsetpassageslatin"
+		},
+		"-540_-520_80123d8b-729d-4277-bade-fe62e8bd6091": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "1",
+			"elementId": "fatigue"
+		},
+		"-810_130_ac784080-b880-47fc-9a02-acda3630e261": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "80",
+			"elementId": "mystique"
+		},
+		"180_-260_cda74e49-738a-4160-84fb-c0c14cf59ee9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_c_grail"
+		},
+		"-630_-260_0838e84e-dd32-4f83-9f39-5d3220d56a97": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"810_-130_c7ef5b4d-711a-4fef-8ab1-1520e856ad77": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "renira_c"
+		},
+		"1170_260_35976cc1-0661-4b25-864f-ef5ce0abe22f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientheartb"
+		},
+		"-450_-260_cb7525df-9039-405d-b50d-22153f7f937a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"-990_130_16b54f46-20f5-427b-bfa4-75c05ec4047a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"900_390_0ede7923-ddbc-483b-a4d7-e5736396d893": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticleheartc"
+		},
+		"1260_130_83d5f018-57c1-49d6-a83f-6a1617eefdf4": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholararamaic"
+		},
+		"-990_-260_e91983e2-fec4-4030-8e40-f73973c5246f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waywhite"
+		},
+		"720_0_f4fd2947-37eb-4b98-ae41-2e4c4c8af284": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "onwhatiscontainedbysilver"
+		},
+		"450_-390_727fab25-281b-424f-a56d-5bf4c9c58a39": {
+			"quantity": "3",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentsecrethistoriesb"
+		},
+		"1080_260_d7ef28b4-e229-4f08-a344-aa2023e0abb5": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "poppycommissionready"
+		},
+		"1170_130_c69a9e41-459d-4240-888d-0fc0d8ba311e": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholarphrygian"
+		},
+		"1170_-390_98e387e1-1f5a-4134-bdc4-63747058d776": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ascensionenlightenmentb"
+		},
+		"360_-130_2fd55ab9-9d3f-4036-bb79-57246943e3f1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "clovette_c"
+		},
+		"1260_-260_69c9fda9-541b-4216-a9f8-fe352f7f4af8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ritetoolconsumefollower"
+		},
+		"900_260_92f5888f-5409-4b7e-a9ef-412639ae5465": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "jannings"
+		},
+		"630_130_a7c577a2-4379-470d-89cb-38a3730077c6": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ceaselesstantrasanskrit"
+		},
+		"-270_-390_0d692e70-371a-48fd-843d-2d1b8537a42d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "passion"
+		},
+		"-1080_130_13c7f118-f65c-4e8e-9ea0-2a6bca7d3b3f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "152",
+			"elementId": "mystique"
+		},
+		"720_-390_de585d54-b1c8-4e6b-99f0-40c8bc495dae": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentgrail"
+		},
+		"540_-130_25f69266-9035-47e1-b606-08c6bf86d066": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "violet_c"
+		},
+		"720_-520_e646539a-b473-4c49-8f9a-790b62bc37ac": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "cat_c"
+		},
+		"-450_260_d10db23c-e0c9-4299-8748-de421a0dbca2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "223",
+			"elementId": "favour"
+		},
+		"-540_260_a4fb35ed-931d-4e46-84dc-b59dd139f625": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "investigator3"
+		},
+		"1170_-260_ee6c03a6-91d3-43fb-b644-64e08788bc0c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "cultlantern_1"
+		},
+		"990_260_e1241414-8b51-431f-b652-c36b6c4702b0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "bechet"
+		},
+		"-540_-260_6f32732a-5f83-4455-8c35-3694c1cc1027": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "reason"
+		},
+		"1170_0_ed630f1a-f501-4709-9e58-cbebd8722b5f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholarlatin"
+		},
+		"810_-260_824fa2d2-261a-400a-8b4c-1c955ab17297": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationbookdealer"
+		},
+		"0_-260_77e26101-ffdb-4ef1-b395-766791fa1855": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "132",
+			"elementId": "erudition"
+		},
+		"990_390_a852b37d-a0f3-4fe5-98d8-8f84e68b8be0": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlemothc"
+		},
+		"1350_-130_d76fb077-de75-4dd6-874b-b5a5c2ded1c8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toolmothb"
+		},
+		"-630_130_0fc68aee-c2e1-4af7-8a80-32a10209eb93": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "26",
+			"elementId": "notoriety"
+		},
+		"270_-130_86afef75-19fa-4242-8bcf-423583d333e4": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "dorothy_c"
+		},
+		"-810_-130_6f7decf9-21d5-43fc-99df-bd09d9670406": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "33",
+			"elementId": "mystique"
+		},
+		"810_260_3591d09c-84be-473c-a4fc-93f3a76e4852": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "aladim"
+		},
+		"1170_-520_fa09f91a-8759-47c8-b6f8-4f14dd1ff84b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generichq"
+		},
+		"540_-520_71ee1bf3-b4d5-4412-bc58-9b886ff25dd1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "auclair_c"
+		},
+		"720_390_a1bcba0f-ed3c-4bfc-aca7-fcfbede190d7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "compensation"
+		},
+		"-360_-390_e27b0841-ca36-4554-b579-e3554c1dd2b8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "passionexhausted"
+		},
+		"1260_0_06dacf88-17a2-4fed-a2df-be15e77a43e2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "scholargreek"
+		},
+		"810_390_4d41a5fe-fe39-4829-8b08-8cfd1d67ca29": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "commissionarticlelanternc"
+		},
+		"90_-130_7e4f051b-ef43-4440-a925-37df58ebcd84": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "victor_c"
+		},
+		"-630_260_aaee83e2-c871-4942-ab62-08adc84c8045": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "248",
+			"elementId": "notoriety"
+		},
+		"540_130_cb0fd070-378c-43f3-ae82-dcceca6ed092": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "shavenlocktantrasanskrit"
+		},
+		"1260_260_d8e9dbbb-7232-42e0-8c97-0fa530f8e311": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientlanternb"
+		},
+		"270_0_bd6b8c04-3c0b-4aab-8a67-c49285b87376": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "silverbookfucine"
+		},
+		"-180_-390_519a5106-c565-4bc8-8e7d-bb44aecd53b8": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "passion"
+		},
+		"-1080_0_f7d64322-177d-494f-9d43-ac77ed71f67c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "32",
+			"elementId": "fascination"
+		},
+		"540_0_55485457-8361-47fc-acbe-cc9969b9d011": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "roseofwaznei"
+		},
+		"450_-260_a6133e0d-68a1-454d-b40d-1f6af322bd17": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "tristan_a"
+		},
+		"1440_-130_d7c22028-8359-4524-89bb-8d7b32fc311f": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toolwinterb"
+		},
+		"-990_-130_7317ca69-768e-4311-b426-47ccd5135987": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "209",
+			"elementId": "mystique"
+		},
+		"90_-260_223aecf3-47ee-44aa-9f5e-05c673aa1f11": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_c_edge"
+		},
+		"-900_0_eed15a91-115c-4963-b837-9c934bdc0d22": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "188",
+			"elementId": "mystique"
+		},
+		"-1080_-260_49ee5256-95f5-43b1-9747-1f52aca0f16a": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "waystag_after"
+		},
+		"180_-130_66c43051-048e-43e4-89ac-ce7ada9e80e9": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "rose_c"
+		},
+		"1170_-130_35e062db-cc55-4fbe-a30f-d97720b3b0b1": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "toollanternb"
+		},
+		"-630_-390_ff1cdeb1-9526-4dfc-8ec4-2573cf94d77c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "29",
+			"elementId": "passionexhausted"
+		},
+		"-540_130_3edf6916-904e-43ef-a0c2-2a5c6c5e61b7": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "250",
+			"elementId": "evidence"
+		},
+		"-630_0_ff261a2a-48c9-4abc-9a2d-c0fa2373db04": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "183",
+			"elementId": "notoriety"
+		},
+		"810_130_ca13ac84-bed1-46d9-a2e2-4e198db7d621": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "knownunknowntantrasanskrit"
+		},
+		"180_-390_1b08e7fd-745b-4835-8bb0-ea0e40e723cf": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "fragmentforge"
+		},
+		"1260_-130_50badf64-262a-4b13-9728-995ba48f2814": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "ingredientedgeb"
+		},
+		"-540_-1.525879E-05_75fe0ec2-ce4c-4f54-b1c5-f21be723f11b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "80",
+			"elementId": "dread"
+		},
+		"270_260_7cd7f67e-d0e6-4af3-a2a6-2d2b1929f46d": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations1latin"
+		},
+		"-1080_-130_e72a05c5-8980-4f45-83f8-3830d6156b0b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "149",
+			"elementId": "fascination"
+		},
+		"270_-520_44d999d2-1295-4843-ae9b-e4c9779904de": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "leo_c"
+		},
+		"270_130_434578f0-904e-40d0-b29b-f7df356ff0ba": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "orchidtransfigurations2latin"
+		},
+		"-1170_-520_c765830b-1d66-403b-a8c6-8a6ae7e7e78c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "gloverandgloverjuniorjob_demotion"
+		},
+		"720_260_d562c6ab-79e1-4028-a258-dfb556b0838c": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "compensationc"
+		},
+		"450_130_fda1fcfd-0fed-49ff-9ad6-9de080652f03": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "watchfultantrasanskrit"
+		},
+		"630_-260_4eebe114-aa50-4880-b80d-da8c38f6dafe": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "locationcabaret"
+		},
+		"590.0002_260.0001_02626051-e729-4d7f-932c-9c3e3c3e6879": {
+			"quantity": "58",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "funds"
+		},
+		"270_-260_edd13fb0-a92e-40d2-bcda-f13b5ca24b6b": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "generic_b_winter"
+		},
+		"450_0_2633996c-9de9-4258-ba95-2570a9afe5c2": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "bookofthrones"
+		},
+		"720_130_a588db6f-2006-4671-8f41-9064e03b2708": {
+			"quantity": "1",
+			"markedForConsumption": "False",
+			"lifetimeRemaining": "0",
+			"elementId": "devouredtantrasanskrit"
+		}
+	},
+	"decks": {
+		"seasonevents": {
+			"eliminatedCards": [
+			],
+			"1": "seasonsuspicion",
+			"2": "seasonvisions",
+			"3": "seasonsuspicion",
+			"4": "seasonvisions"
+		},
+		"janningscommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticleedgec",
+			"2": "commissionarticleedgeb",
+			"3": "commissionarticleheartb",
+			"4": "commissionarticleheart",
+			"5": "commissionarticleedge"
+		},
+		"mansus_wood2": {
+			"eliminatedCards": [
+			],
+			"1": "influenceknock",
+			"2": "rumour"
+		},
+		"dreamreasonresults": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "fascination",
+			"3": "dread",
+			"4": "restlessness",
+			"5": "contentment"
+		},
+		"paintingresultsbasic": {
+			"eliminatedCards": [
+			],
+			"1": "glimmering",
+			"2": "contentment",
+			"3": "glimmering",
+			"4": "glimmering"
+		},
+		"mansus_stagdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "influenceedgee",
+			"2": "influencegrailc"
+		},
+		"mansus_stagdoor2": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesd",
+			"2": "fascination"
+		},
+		"randomvictim": {
+			"eliminatedCards": [
+			],
+			"1": "genericprisonerm",
+			"2": "genericprisonerf"
+		},
+		"scholarpatrons": {
+			"eliminatedCards": [
+			]
+		},
+		"mansus_spiderdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "influenceforgeg",
+			"2": "ingredientforgef",
+			"3": "fragmentsecrethistoriese",
+			"4": "fascination"
+		},
+		"mansus_spiderdoor2": {
+			"eliminatedCards": [
+			],
+			"1": "influencewintere",
+			"2": "influencelanterne",
+			"3": "fragmentsecrethistoriesc",
+			"4": "influencemothe",
+			"5": "influenceknockg",
+			"6": "fascination"
+		},
+		"troublemakerconversations": {
+			"eliminatedCards": [
+			],
+			"1": "erudition",
+			"2": "fascination",
+			"3": "erudition",
+			"4": "glimmering",
+			"5": "dread",
+			"6": "dread",
+			"7": "erudition",
+			"8": "fascination",
+			"9": "glimmering"
+		},
+		"cabaretevents": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "fascination",
+			"3": "glimmering",
+			"4": "influencegrail",
+			"5": "contentment",
+			"6": "fascination",
+			"7": "notoriety",
+			"8": "contentment",
+			"9": "erudition",
+			"10": "influencemoth",
+			"11": "contentment"
+		},
+		"robberyrewards": {
+			"36": "compensation",
+			"37": "jumble",
+			"38": "compensationb",
+			"39": "ingredientedgeb",
+			"eliminatedCards": [
+			],
+			"40": "funds",
+			"41": "jumble",
+			"42": "ingredientmothb",
+			"43": "funds",
+			"44": "funds",
+			"45": "compensation",
+			"46": "compensationb",
+			"47": "funds",
+			"10": "toollanternbcracked",
+			"11": "ingredientforgeb",
+			"12": "funds",
+			"13": "funds",
+			"14": "compensation",
+			"15": "funds",
+			"16": "funds",
+			"17": "compensation",
+			"1": "funds",
+			"2": "jumble",
+			"3": "funds",
+			"4": "ingredientgrailb",
+			"5": "funds",
+			"6": "funds",
+			"7": "funds",
+			"8": "funds",
+			"9": "funds",
+			"20": "jumble",
+			"21": "funds",
+			"22": "toolgrailb",
+			"23": "funds",
+			"24": "toolsecrethistoriesb",
+			"25": "ingredientheartb",
+			"26": "funds",
+			"27": "funds",
+			"28": "funds",
+			"29": "funds",
+			"18": "compensation",
+			"19": "ingredientknockb",
+			"30": "funds",
+			"31": "funds",
+			"32": "compensation",
+			"33": "jumble",
+			"34": "compensationb",
+			"35": "funds"
+		},
+		"citysecrets": {
+			"eliminatedCards": [
+				"locationbookdealer"
+			]
+		},
+		"streetsstrangefinds": {
+			"eliminatedCards": [
+			]
+		},
+		"mansus_wood1": {
+			"eliminatedCards": [
+			],
+			"1": "vitality",
+			"2": "rumour"
+		},
+		"vaultslandbeyondforest": {
+			"eliminatedCards": [
+			],
+			"1": "vaultlandbeyondforest1",
+			"2": "vaultlandbeyondforest3",
+			"3": "vaultlandbeyondforest2",
+			"4": "vaultlandbeyondforest4"
+		},
+		"exploreevents": {
+			"eliminatedCards": [
+			],
+			"1": "dayplaces",
+			"2": "dayplaces",
+			"3": "daycriminals"
+		},
+		"mansus_whitedoor": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistoriesb"
+		},
+		"mansus_peacockdoor": {
+			"eliminatedCards": [
+			],
+			"1": "scholarvak",
+			"2": "influencelanterng",
+			"3": "fragmentsecrethistoriese",
+			"4": "fascination"
+		},
+		"poppycommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticlewinterc",
+			"2": "commissionarticlewinterb",
+			"3": "commissionarticleknockb",
+			"4": "commissionarticleknock",
+			"5": "commissionarticlewinter",
+			"6": "commissionarticleknockc"
+		},
+		"acquaintances": {
+			"eliminatedCards": [
+			],
+			"1": "porter_a",
+			"2": "generic_a_knock",
+			"3": "laidlaw_a",
+			"4": "generic_a_forge",
+			"5": "generic_a_heart",
+			"6": "ysabet_a",
+			"7": "slee_a",
+			"8": "enid_a"
+		},
+		"paintingresultsreputation": {
+			"eliminatedCards": [
+			],
+			"1": "funds",
+			"2": "funds",
+			"3": "funds",
+			"4": "funds",
+			"5": "funds",
+			"6": "funds",
+			"7": "funds",
+			"8": "mystique",
+			"9": "funds",
+			"10": "funds",
+			"11": "funds",
+			"12": "mystique",
+			"13": "funds",
+			"14": "funds"
+		},
+		"mansus_peacockdoor1": {
+			"eliminatedCards": [
+			],
+			"1": "ingredientgraild",
+			"2": "influencegrailg",
+			"3": "favour",
+			"4": "fragmentsecrethistoriesf",
+			"5": "fascination"
+		},
+		"mansus_wood": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentsecrethistories"
+		},
+		"mansus_whitedoor1": {
+			"eliminatedCards": [
+			],
+			"1": "glimmering",
+			"2": "fragmentsecrethistoriesc",
+			"3": "fascination",
+			"4": "erudition"
+		},
+		"mansus_whitedoor2": {
+			"eliminatedCards": [
+			],
+			"1": "influencelanternc",
+			"2": "contentment"
+		},
+		"vaultscontinent": {
+			"eliminatedCards": [
+			],
+			"1": "vaultcontinent1",
+			"2": "vaultcontinent3",
+			"3": "vaultcontinent2",
+			"4": "vaultcontinent4"
+		},
+		"mansus_stagdoor": {
+			"eliminatedCards": [
+			],
+			"1": "influenceknocke",
+			"2": "fragmentsecrethistoriesc"
+		},
+		"vaultseveningisles": {
+			"eliminatedCards": [
+			],
+			"1": "vaulteveningisles1",
+			"2": "vaulteveningisles3",
+			"3": "vaulteveningisles2",
+			"4": "vaulteveningisles4"
+		},
+		"vaultsshires": {
+			"eliminatedCards": [
+			]
+		},
+		"hunters": {
+			"eliminatedCards": [
+			],
+			"1": "investigator2",
+			"2": "investigator1",
+			"3": "investigator4"
+		},
+		"stagriddles": {
+			"eliminatedCards": [
+			],
+			"1": "waystagbefore_2",
+			"2": "waystagbefore_1",
+			"3": "waystagbefore_4",
+			"4": "waystagbefore_3"
+		},
+		"locationscapital": {
+			"eliminatedCards": [
+			],
+			"1": "vaultcapital1"
+		},
+		"aladimcommissions": {
+			"eliminatedCards": [
+			],
+			"1": "commissionarticlesecrethistoriesc",
+			"2": "commissionarticlesecrethistoriesb",
+			"3": "commissionarticlelanternb",
+			"4": "commissionarticlelantern",
+			"5": "commissionarticlesecrethistories"
+		},
+		"oneoffrewards": {
+			"eliminatedCards": [
+			],
+			"1": "fragmentkn

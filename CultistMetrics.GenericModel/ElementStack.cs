@@ -7,6 +7,11 @@ namespace CultistMetrics.GenericModel
 {
     public class ElementStack
     {
+        public ElementStack()
+        {
+            ElementStackItems = new List<ElementStackItem>();
+        }
+
         [Key]
         public int ElementStackId { get; set; }
 

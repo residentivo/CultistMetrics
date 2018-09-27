@@ -62,13 +62,159 @@ namespace CultistMetrics
 
             //Console.WriteLine(elementStacks);
         }
+        private static void VerifyFile(SaveFile fileItem)
+        {
+            //Clearwindow
+            ResetColor(true);
+            Console.SetCursorPosition(0, 1);
+            for (int i = 0; i < 15; i++) Console.WriteLine("                                                                     ");
+            
+            //Hook Verbs
+
+            int topItem = 2;
+
+            Situation VisionExtraAlert = null;
+
+            foreach (var item in fileItem.Situations
+                .OrderBy(s => FindSituationItem(s, "state"))
+                .ThenBy(s => TryParseTimeRemanining(FindSituationItem(s, "timeRemaining")))
+                )
+            {
+                //Find name                
+                var verbId = FindSituationItem(item, "verbId");
+                var timeRemaining = FindSituationItem(item, "timeRemaining");
+                var state = FindSituationItem(item, "state");
+
+                decimal timeRem = 0;
+                if (decimal.TryParse(timeRemaining, out timeRem) && state.ToLower() == "ongoing")
+                {
+                    if (timeRem > 5 && timeRem <= 10)
+                        SetColor(ConsoleColor.Yellow);
+                    if (timeRem <= 5)
+                        SetColor(ConsoleColor.Red);
+                }
+                if (state.ToLower() == "unstarted")
+                {
+                    SetColor(ConsoleColor.Green);
+                }
+
+                if (ValidateVision(verbId, item.SituationStoredElements))
+                {
+                    VisionExtraAlert = item;
+                }
+
+                if (timeRemaining.Length > 5)
+                    timeRemaining = timeRemaining.Remove(5);
+
+                Writexy(timeRemaining, topItem);
+                //Writexy(state, topItem, 7);
+                //Writexy(verbId, topItem, 18);
+                Writexy(verbId, topItem, 7);
+
+                //Console.WriteLine($"[{verbId.Value}     ]{title.Value}");
+                topItem++;
+                ResetColor();
+            }
+
+            //Show extra alerts
+            Writexy("", topItem++);
+            if (VisionExtraAlert != null)
+            {
+                byte VisionCount = 0;
+                foreach (var item in VisionExtraAlert.SituationStoredElements)
+                {
+                    foreach (var subitem in item.SituationStoredElementItems)
+                    {
+                        if (subitem.Key.ToLower() == "elementId".ToLower() && subitem.Value.ToLower() == "fascination".ToLower()) VisionCount++;
+                    }
+                }
+                switch (VisionCount)
+                {
+                    case 0:
+                        SetColor(ConsoleColor.Green);
+                        break;
+                    case 1:
+                        SetColor(ConsoleColor.Yellow);
+                        break;
+                    case 2:
+                        SetColor(ConsoleColor.Red);
+                        break;
+                    case 3:
+                        SetColor(ConsoleColor.Magenta);
+                        break;
+                    default:
+                        SetColor(ConsoleColor.Blue);
+                        break;
+                }
+                Writexy($"FASCINATION WARNING: {VisionCount}", topItem);
+
+            }
+
+            ResetColor(true);
+        }
+        private static decimal TryParseTimeRemanining(string timeRemaining)
+        {
+            decimal timeRem = 0;
+            decimal.TryParse(timeRemaining, out timeRem);
+            return timeRem;
+        }
+        private static bool ValidateVision(string verbid, List<SituationStoredElement> SituationStoredElements)
+        {
+            if (string.IsNullOrEmpty(verbid) || verbid.ToLower() != "visions".ToLower())
+                return false;
+
+            //situationStoredElements
+            return true;
+        }
+
+        private static void Writexy(string texto, int top = 0, int left = 0)
+        {
+            Console.SetCursorPosition(left, top);
+            Console.Write(texto);
+        }
+
+        static ConsoleColor _back = ConsoleColor.Black;
+        static ConsoleColor _fore = ConsoleColor.Gray;
+
+        private static void SetColor(ConsoleColor fore, ConsoleColor back = ConsoleColor.Black)
+        {
+            _back = Console.BackgroundColor;
+            _fore = Console.ForegroundColor;
+
+            Console.BackgroundColor = back;
+            Console.ForegroundColor = fore;
+        }
+
+        private static void ResetColor(bool resetDefault = false)
+        {
+            if (resetDefault)
+            {
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.ForegroundColor = ConsoleColor.Gray;
+                return;
+            }
+            Console.BackgroundColor = _back;
+            Console.ForegroundColor = _fore;
+        }
+        private static string FindSituationItem(Situation item, string key)
+        {
+            SituationItem situationItem = item.SituationItems.FirstOrDefault(si => si.Key.ToLower() == key.ToLower());
+
+            if (situationItem != null)
+                return situationItem.Value;
+
+            return string.Empty;
+        }
 
         private static void Logger(string message)
         {
-            Console.WriteLine($"[{DateTime.Now.ToString("HH:mm:ss")}] { message}");
+            Console.SetCursorPosition(0, 0);
+            Console.Write("                                                                                                     ");
+            Console.SetCursorPosition(0, 0);
+            Console.Write($"[{DateTime.Now.ToString("HH:mm:ss")}] { message }");
         }
 
-        private static async void QueueFile(string FileNames)
+        private static async void QueueFile(string FileNames, bool UseVerifyFile = false)
         {
             var unitOfWork = GetUnitOfWork();
 
@@ -95,13 +241,13 @@ namespace CultistMetrics
 
             await unitOfWork.SaveChangesAsync();
 
-            QueueItem(FileNames);
+            QueueItem(FileNames, UseVerifyFile);
             //AllTasks.Add(Task.Factory.StartNew(() =>  QueueItem(FileNames)));
         }
 
 
 
-        private static async void QueueItem(string FileNames)
+        private static async void QueueItem(string FileNames, bool UseVerifyFile = false)
         {
             var _unitOfWork = GetUnitOfWork();
 
@@ -142,6 +288,8 @@ namespace CultistMetrics
                         SaveFile = fileItem
                     };
 
+                    fileItem.ElementStacks.Add(element);
+
                     await repElStack.InsertAsync(element);
 
                     //var elementStackItems = JObject.Parse(property.Values);
@@ -153,6 +301,8 @@ namespace CultistMetrics
                             Key = subprop.Name,
                             ElementStack = element
                         };
+
+                        element.ElementStackItems.Add(item);
 
                         await repElStackItem.InsertAsync(item);
                     }
@@ -171,6 +321,7 @@ namespace CultistMetrics
                         SaveFile = fileItem
                     };
 
+                    fileItem.Decks.Add(deck);
                     //How to identify eliminated cards?
                     await repDek.InsertAsync(deck);
 
@@ -188,7 +339,7 @@ namespace CultistMetrics
                                     Key = "0",
                                     Deck = deck
                                 };
-
+                                deck.DeckItems.Add(decksubItem);
                                 await repDekItem.InsertAsync(decksubItem);
                             }
                             continue;
@@ -201,6 +352,7 @@ namespace CultistMetrics
                             Value = subprop.Value.ToString(),
                             Deck = deck
                         };
+                        deck.DeckItems.Add(deckItem);
                         //How to identify eliminated cards?
                         await repDekItem.InsertAsync(deckItem);
                     }
@@ -267,10 +419,12 @@ namespace CultistMetrics
                             Key = subprop.Name,
                             Value = subprop.Value.ToString()
                         };
-
+                        characterDetail.Levers.Add(lever);
                         await Repository<Lever>(_unitOfWork).InsertAsync(lever);
                     }
                 }
+
+                fileItem.CharacterDetail = characterDetail;
 
                 await Repository<CharacterDetail>(_unitOfWork).InsertAsync(characterDetail);
 
@@ -283,7 +437,7 @@ namespace CultistMetrics
                         SaveFile = fileItem,
                         SituationIdentification = property.Name
                     };
-
+                    fileItem.Situations.Add(situation);
                     await Repository<Situation>(_unitOfWork).InsertAsync(situation);
 
                     foreach (JProperty sitItem in property.Values())
@@ -298,7 +452,7 @@ namespace CultistMetrics
                                     Situation = situation,
                                     OngoingSlotElementIdentification = subprop.Name
                                 };
-
+                                situation.OngoingSlotElements.Add(ongoingSlotElement);
                                 await Repository<OngoingSlotElement>(_unitOfWork).InsertAsync(ongoingSlotElement);
 
                                 foreach (JProperty subpropitem in subprop.Values())
@@ -309,7 +463,7 @@ namespace CultistMetrics
                                         Key = subpropitem.Name,
                                         Value = subpropitem.Value.ToString(),
                                     };
-
+                                    ongoingSlotElement.OngoingSlotElementItems.Add(ongoingSlotElementItem);
                                     await Repository<OngoingSlotElementItem>(_unitOfWork).InsertAsync(ongoingSlotElementItem);
                                 }
                             }
@@ -331,7 +485,7 @@ namespace CultistMetrics
                                         Key = subpropitem.Name,
                                         Value = subpropitem.Value.ToString(),
                                     };
-
+                                    situation.SituationOutputNotes.Add(situationOutputNote);
                                     await Repository<SituationOutputNote>(_unitOfWork).InsertAsync(situationOutputNote);
                                 }
                             }
@@ -348,7 +502,7 @@ namespace CultistMetrics
                                     Situation = situation,
                                     SituationStoredElementIdentification = subprop.Name
                                 };
-
+                                situation.SituationStoredElements.Add(situationStoredElement);
                                 await Repository<SituationStoredElement>(_unitOfWork).InsertAsync(situationStoredElement);
 
                                 foreach (JProperty subpropitem in subprop.Values())
@@ -359,7 +513,7 @@ namespace CultistMetrics
                                         Key = subpropitem.Name,
                                         Value = subpropitem.Value.ToString(),
                                     };
-
+                                    situationStoredElement.SituationStoredElementItems.Add(situationStoredElementItem);
                                     await Repository<SituationStoredElementItem>(_unitOfWork).InsertAsync(situationStoredElementItem);
                                 }
                             }
@@ -377,6 +531,7 @@ namespace CultistMetrics
                                     StartingSlotElementIdentification = subprop.Name
                                 };
 
+                                situation.StartingSlotElements.Add(startingSlotElement);
                                 await Repository<StartingSlotElement>(_unitOfWork).InsertAsync(startingSlotElement);
 
                                 foreach (JProperty subpropitem in subprop.Values())
@@ -387,7 +542,7 @@ namespace CultistMetrics
                                         Key = subpropitem.Name,
                                         Value = subpropitem.Value.ToString(),
                                     };
-
+                                    startingSlotElement.StartingSlotElementItems.Add(startingSlotElementItem);
                                     await Repository<StartingSlotElementItem>(_unitOfWork).InsertAsync(startingSlotElementItem);
                                 }
                             }
@@ -404,7 +559,7 @@ namespace CultistMetrics
                                     Situation = situation,
                                     SituationOutputStacksIdentification = subprop.Name
                                 };
-
+                                situation.SituationOutputStacks.Add(situationOutputStack);
                                 await Repository<SituationOutputStack>(_unitOfWork).InsertAsync(situationOutputStack);
 
                                 foreach (JProperty subpropitem in subprop.Values())
@@ -415,7 +570,7 @@ namespace CultistMetrics
                                         Key = subpropitem.Name,
                                         Value = subpropitem.Value.ToString(),
                                     };
-
+                                    situationOutputStack.SituationOutputStackItems.Add(situationOutputStackItem);
                                     await Repository<SituationOutputStackItem>(_unitOfWork).InsertAsync(situationOutputStackItem);
                                 }
                             }
@@ -429,21 +584,27 @@ namespace CultistMetrics
                             Situation = situation
                         };
 
+                        situation.SituationItems.Add(situationItem);
+
                         await Repository<SituationItem>(_unitOfWork).InsertAsync(situationItem);
                     }
                 }
+
                 fileItem.Processed = (int)SaveFileProcessedEnum.Processed;
 
                 Repository<SaveFile>(_unitOfWork).Update(fileItem);
 
                 transaction.Commit();
+
+                if (UseVerifyFile)
+                    VerifyFile(fileItem);
                 //CommitTransaction();
             }
             catch (Exception ex)
             {
                 Logger(ex.Message);
 
-                File.WriteAllText(Path.Combine( SaveFolder  ,$@"log\{filename}.log"), ex.ToString());
+                File.WriteAllText(Path.Combine(SaveFolder, $@"log\{filename}.log"), ex.ToString());
 
                 transaction.Rollback();
                 //RollbackTransaction();
@@ -463,7 +624,7 @@ namespace CultistMetrics
         static void Main(string[] args)
         {
             //ParseMetaDadosAsync();
-
+            Console.CursorVisible = false;
             //ini config
             var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appsettings.json");
             Configuration = builder.Build();
@@ -578,13 +739,13 @@ namespace CultistMetrics
             // Wait for the user to quit the program.
             //Console.WriteLine("Press \'q\' to quit the sample.");
             Logger("Press \'q\' to quit the sample.");
-            while (Console.Read() != 'q')
-            {
-                //var task = Task.WhenAny(AllTasks);
-                //Rebuild list with not completed tasks
-                //AllTasks = new ConcurrentBag<Task>(AllTasks.Where(t => !t.IsCompleted || t != task.Result));
-            }
-
+            //while (Console.Read() != 'q')
+            //{
+            //    //var task = Task.WhenAny(AllTasks);
+            //    //Rebuild list with not completed tasks
+            //    //AllTasks = new ConcurrentBag<Task>(AllTasks.Where(t => !t.IsCompleted || t != task.Result));
+            //}
+            Console.ReadKey();
             Logger("Wait for any pending task.");
 
 
@@ -624,10 +785,11 @@ namespace CultistMetrics
 
             Logger($"File Changed {e.Name} > {backFile} ");
 
-            QueueFile(backFile);
+            QueueFile(backFile,true);
             //QueueItem(backFile);
             //AllTasks.Add(QueueFileAsync(backFile));
 
         }
     }
+
 }

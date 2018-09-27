@@ -5,6 +5,11 @@ namespace CultistMetrics.GenericModel
 {
     public class SituationStoredElement
     {
+        public SituationStoredElement()
+        {
+            SituationStoredElementItems = new List<SituationStoredElementItem>();
+        }
+
         [Key]
         public int SituationStoredElementId { get; set; }
 

@@ -14,6 +14,13 @@ namespace CultistMetrics.GenericModel
 
     public class SaveFile
     {
+        public SaveFile()
+        {
+            Situations = new List<Situation>();
+            Decks = new List<Deck>();
+            ElementStacks = new List<ElementStack>();
+        }
+
         [Key]
         public int FileId { get; set; }        
         public int Processed { get; set; }

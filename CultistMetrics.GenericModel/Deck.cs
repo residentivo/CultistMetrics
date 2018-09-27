@@ -7,6 +7,10 @@ namespace CultistMetrics.GenericModel
 {
     public class Deck
     {
+        public Deck()
+        {
+            DeckItems = new List<DeckItem>();
+        }
         [Key]
         public int DeckId { get; set; }
         public string Name { get; set; }
